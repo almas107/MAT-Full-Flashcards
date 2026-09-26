@@ -835,9 +835,6 @@ T: source::question_bank
 Q: প্রোটোপ্লাজমের জীবন্ত ভ্যাক্সিন কোনটি?
 A: পর্যটক ম্যাক্রোফেজ
 T: source::question_bank
-Q: ল্যাঙ্গারহ্যান্স কোষ কোথায় থাকে?
-A: ত্বকে
-T: source::question_bank
 Q: মানবদেহের স্বাভাবিক তাপমাত্রা কত?
 A: 97°–99°F
 T: source::question_bank
@@ -897,9 +894,6 @@ A: প্রাকৃতিক অসক্রিয় (অক্রিয়) 
 T: source::question_bank
 Q: স্মৃতিকোষগুলো কী ধরনের কোষ?
 A: T-Lymphocyte ও B-Lymphocyte জাতীয় কোষ
-T: source::question_bank
-Q: অ্যান্টিবডি ক্ষরণ করে কোনটি?
-A: প্লাজমা কোষ
 T: source::question_bank
 Q: হাসপাতালে সংক্রমণ কোন ধরনের প্রতিরক্ষার অন্তর্ভুক্ত?
 A: প্রাকৃতিক সক্রিয়
@@ -975,9 +969,6 @@ A: অশ্রু, লালা ও লসিকা — সবগুলোত�
 T: source::question_bank
 Q: অ্যান্টিজেন-অ্যান্টিবডি বিক্রিয়াজনিত সমস্যা নয় কোনটি — Allergy, AIDS, Ulcer না Autoimmune disease?
 A: Ulcer
-T: source::question_bank
-Q: Colostrum-এ প্রচুর পরিমাণে কোন অ্যান্টিবডি থাকে?
-A: IgA
 T: source::question_bank
 Q: 'Maternal antibody' বলা হয় কোনটিকে?
 A: IgG

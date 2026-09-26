@@ -1055,7 +1055,7 @@ A: ৪টি — অ্যামনিয়ন, কোরিওন, কুস�
 T: textbook::p39
 # Aves
 Q: বাংলাদেশে প্রাপ্ত পাখির প্রজাতির সংখ্যা কত?
-A: ৬৫০ (স্থায়ী) ও ১৭৬ (পরিযায়ী)
+A: ৬৫০ (স্থায়ী) ও ১৭৬ (পরিযায়ী) — অধ্যায় ১ অনুযায়ী (অধ্যায় ১২ ও প্রশ্নব্যাংকে স্থায়ী প্রায় ৫০০)
 T: textbook::p39
 Q: পাখির গ্রীবা কেমন?
 A: প্রলম্বিত এবং "S" আকৃতির
@@ -1154,9 +1154,6 @@ A: স্টিং রে
 T: textbook::p42
 Q: রুই মাছের বৈজ্ঞানিক নাম কী?
 A: Labeo rohita
-T: textbook::p42
-Q: উভচরদের দেহত্বক কেমন?
-A: নগ্ন, গ্রন্থিময় ও সিক্ত
 T: textbook::p42
 Q: ঘড়িয়ালের বৈজ্ঞানিক নাম কী?
 A: Gavialis gangeticus
@@ -1314,9 +1311,6 @@ T: exam::MAT_12-13 past_question source::question_bank
 Q: Astropecten irregularis-এ কোন ধরনের প্রতিসাম্যতা দেখা যায়?
 A: পঞ্চঅরীয়
 T: source::question_bank
-Q: শ্রেণিবিন্যাসের সবচেয়ে বড় একক কোনটি (প্রশ্নব্যাংক অনুযায়ী)?
-A: Phylum (পর্ব)
-T: source::question_bank
 Q: বর্গের (Order) ঠিক অধীনে কোন ধাপ থাকে?
 A: গোত্র (Family)
 T: source::question_bank
@@ -1407,9 +1401,6 @@ T: source::question_bank
 Q: Echinodermata-র মৌখিক তলে কয়টি অ্যাম্বুল্যাক্রাল খাদ থাকে?
 A: পাঁচটি
 T: source::question_bank
-Q: নেফ্রিডিয়াকে কী অঙ্গ বলা হয়?
-A: খণ্ডীয় অঙ্গ
-T: source::question_bank
 Q: Platyhelminthes-এর রেচন অঙ্গের অপর নামগুলো কী?
 A: প্রোটোনেফ্রিডিয়া বা শিখা কোষ বা সোলেনোসাইট
 T: source::question_bank
@@ -1482,9 +1473,6 @@ T: source::question_bank
 Q: কোন প্রাণী সামুদ্রিক বল্লা নামে পরিচিত?
 A: Chironex fleckeri
 T: source::question_bank
-Q: সম্পূর্ণ চার প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড কোন সরীসৃপে থাকে (বৈজ্ঞানিক নাম)?
-A: Crocodylus palustris (কুমির)
-T: source::question_bank
 Q: Scoliodon laticaudus-এর আঁইশ কোন ধরনের?
 A: প্ল্যাকয়েড
 T: source::question_bank
@@ -1506,15 +1494,6 @@ T: source::question_bank
 Q: স্যালামান্ডার কোন বর্গের প্রাণী?
 A: Caudata
 T: source::question_bank
-Q: ডিম পাড়ে এমন স্তন্যপায়ী প্রাণী কোনটি — ইঁদুর, বনরুই, হংসচঞ্চু না কাঠবিড়াল?
-A: হংসচঞ্চু (প্লাটিপাস)
-T: source::question_bank
-Q: বাংলাদেশে প্রাপ্ত স্থায়ী পাখি প্রজাতির সংখ্যা কত?
-A: ৬৫০
-T: source::question_bank textbook::p39
-Q: উভচর প্রাণীদের বৃক্ক কোন ধরনের?
-A: মেসোনেফ্রোস
-T: source::question_bank textbook::p45
 Q: 'লুমিনাস অঙ্গ' কোন শ্রেণির প্রাণীতে দেখা যায়?
 A: থ্যালিয়াসিয়া (Thaliacea)
 T: source::question_bank
@@ -1535,7 +1514,4 @@ A: সাইনাস ভেনোসাস ও কোনাস আর্টে�
 T: source::question_bank
 Q: কোন শ্রেণির কলোনির সদস্যরা স্টোলন দ্বারা পরস্পর যুক্ত থাকে?
 A: অ্যাসিডিয়াসিয়া (Ascidiacea)
-T: source::question_bank
-Q: 'মিক্সিনি' শ্রেণির প্রাণীদের মুখে কর্ষিকার সংখ্যা কয়টি?
-A: ৮টি (৪ জোড়া)
 T: source::question_bank

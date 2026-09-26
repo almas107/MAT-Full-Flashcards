@@ -657,9 +657,6 @@ T: source::question_bank
 Q: নিম্নের কোনটিতে তরুণাস্থি নাই — পিনা, নাকের বিভক্তি দেয়াল, স্বরথলি না মূত্রথলি?
 A: মূত্রথলি
 T: exam::DAT_11-12 exam::MAT_11-12 past_question source::question_bank
-Q: স্ত্রী দেহে রেচননালি (ইউরেটার) কতটুকু লম্বা?
-A: ২৫ সেন্টিমিটার (পুরুষ ও স্ত্রী উভয়েই)
-T: source::question_bank
 Q: সহকারী রেচন অঙ্গ নয় কোনটি — ত্বক, ফুসফুস, যকৃত না অগ্ন্যাশয়?
 A: অগ্ন্যাশয়
 T: source::question_bank
@@ -756,12 +753,6 @@ T: source::question_bank
 Q: কোন রোগে প্রস্রাবের হার ও মাত্রা উভয়ই বেড়ে যায়?
 A: বহুমূত্র
 T: source::question_bank
-Q: মূত্রে অ্যামোনিয়ামের পরিমাণ কত?
-A: ০.০৪%
-T: source::question_bank
-Q: বৃক্কে দৈনিক কতটুকু মূত্র উৎপন্ন হয়?
-A: ০.৫–২.৫ লিটার
-T: source::question_bank
 Q: ডিহাইড্রেশনের কারণে মূত্রের বর্ণ কীরূপ হয়?
 A: গাঢ় হলুদ
 T: source::question_bank
@@ -810,9 +801,6 @@ T: source::question_bank
 Q: সোলোফেন নালি কোথায় ব্যবহৃত হয়?
 A: Haemodialysis
 T: source::question_bank
-Q: গ্লোমেরুলাসে পরিস্রুত মূত্র ADH-এর প্রভাব ছাড়া কত ভাগ (%) প্রক্সিমাল নালিকায় শোষিত হয়?
-A: ৬০%
-T: exam::MAT_10-11 past_question source::question_bank textbook::p273
 Q: কোন হরমোন রেচনে অংশগ্রহণ করে?
 A: ADH
 T: source::question_bank
