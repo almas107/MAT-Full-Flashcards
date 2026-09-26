@@ -1,0 +1,1541 @@
+# প্রাণিবৈচিত্র্য
+Q: প্রাণিবিজ্ঞানীরা এ পর্যন্ত প্রায় কত প্রজাতির উদ্ভিদ ও প্রাণী শনাক্ত করেছেন?
+A: উদ্ভিদ প্রায় ৫ লক্ষ; প্রাণী ১৫ লক্ষেরও বেশি
+T: textbook::p1
+Q: "জীববৈচিত্র্যের জনক" (Father of Biodiversity) কাকে বলা হয়?
+A: এডওয়ার্ড অসবর্ন উইলসন (E. O. Wilson)
+T: textbook::p1
+Q: প্রাণিবৈচিত্র্য কয় প্রকার ও কী কী?
+A: ৩ প্রকার — জিনগত, প্রজাতিগত ও বাস্তুতান্ত্রিক বৈচিত্র্য
+T: textbook::p2
+Q: নির্দিষ্ট বাস্তুতন্ত্রে কোনো প্রজাতির সদস্য বা জনগোষ্ঠীর মধ্যে জিনগত পার্থক্যকে কী বলে?
+A: জিনগত বৈচিত্র্য (Genetic diversity)
+T: textbook::p2
+Q: জিনগত বৈচিত্র্য ঘটে কোন কারণে?
+A: গ্যামেট সৃষ্টির সময় মিয়োসিসকালে সমসংস্থ ক্রোমোজোমের পরিব্যক্তি (mutation) ও জিনপ্রবাহের কারণে
+T: textbook::p2
+Q: জিনগত বৈচিত্র্যের প্রভাবে শরীরের দাগে পরিবর্তন ঘটে কোন প্রাণীতে?
+A: বার্চেলের জেব্রা (Burchell's Zebra)
+T: textbook::p2
+Q: জিনগত বৈচিত্র্য কী থেকে সৃষ্টি হয়?
+A: জিনগত বৈষম্য (genetic difference)
+T: textbook::p2
+Q: জিনগত বৈষম্য প্রজাতিকে কী কী কাজে সাহায্য করে?
+A: অভিযোজনক্ষম হতে, বেঁচে থাকতে ও বিবর্তনে
+T: textbook::p2
+Q: একটি বাস্তুতন্ত্রে উপস্থিত বিভিন্ন প্রজাতির সংখ্যা, আপেক্ষিক বন্টন ও প্রাচুর্যকে কী বলে?
+A: প্রজাতিগত বৈচিত্র্য (Species diversity)
+T: textbook::p3
+Q: প্রজাতির বৈচিত্র্য কোন দুটি উপাদান নিয়ে গঠিত?
+A: প্রজাতির সমৃদ্ধি (Species richness) ও প্রজাতির সমতা (Species evenness)
+T: textbook::p3
+Q: একটি বাস্তুতন্ত্রে বিভিন্ন প্রজাতির ব্যাপক সংখ্যায় উপস্থিতিকে কী বলে?
+A: প্রজাতির সমৃদ্ধি (Species richness)
+T: textbook::p3
+Q: নির্দিষ্ট প্রজাতির প্রত্যেক সদস্যের আপেক্ষিক প্রাচুর্যকে কী বলে?
+A: প্রজাতির সমতা (Species evenness)
+T: textbook::p3
+Q: প্রজাতির বৈচিত্র্য কোন অঞ্চলে সবচেয়ে বেশি এবং কোন দিকে কমে যায়?
+A: ক্রান্তীয় অঞ্চলে (tropics) সবচেয়ে বেশি; মেরু অঞ্চলের (poles) দিকে কমে যায়
+T: textbook::p3
+Q: সবচেয়ে বেশি প্রজাতি সমৃদ্ধ পরিবেশ কোনগুলো?
+A: গ্রীষ্মমণ্ডলীয় বারিবন (rain forest), প্রবাল প্রাচীর (coral reef) ও সমুদ্রের তলদেশ (ocean bottom)
+T: textbook::p3
+Q: আমাজন বন পৃথিবীর বায়ুমণ্ডলে মোট অক্সিজেনের কত শতাংশ উৎপাদন করে বলে ধারণা করা হয়?
+A: ২০ শতাংশ
+T: textbook::p3
+Q: প্রজাতিগত বৈচিত্র্য হ্রাসের প্রধান চারটি কারণকে একত্রে কী নামে ডাকা হয়?
+A: The Evil Quartet (দ্য এভিল কোয়ার্টেট)
+T: textbook::p3
+Q: The Evil Quartet-এর চারটি কারণ কী কী?
+A: বহিঃপ্রজাতির (এলিয়েন প্রজাতি) অনুপ্রবেশ; বসতি সংকোচন, দূষণ ও খণ্ডায়ন; অতিআহরণ; সহ-বিলুপ্তি (co-extinctions)
+T: textbook::p3
+Q: জীববৈচিত্র্যের তৃতীয় স্তর কোনটি?
+A: বাস্তুতন্ত্রের বৈচিত্র্য (বাস্তুতান্ত্রিক বৈচিত্র্য)
+T: textbook::p4
+Q: একটি নির্দিষ্ট ভৌগোলিক অঞ্চলে অবস্থিত বিভিন্ন বাস্তুতন্ত্রের মধ্যে বৈচিত্র্যকে কী বলে?
+A: বাস্তুতান্ত্রিক বৈচিত্র্য (Ecosystem diversity)
+T: textbook::p4
+Q: বাস্তুতান্ত্রিক বৈচিত্র্যের মধ্যে কী কী অন্তর্ভুক্ত?
+A: বাসস্থানের ধরন, গোষ্ঠী ও বিভিন্ন পরিবেশগত প্রক্রিয়ার বৈচিত্র্য
+T: textbook::p4
+Q: প্রত্যেক বাস্তুতন্ত্রে বিভিন্ন প্রজাতির সদস্যের মধ্যে কী ঘটে?
+A: অনেক ধরনের মিথস্ক্রিয়া (interaction)
+T: textbook::p4
+Q: প্রশান্ত মহাসাগরীয় দ্বীপপুঞ্জে পরাগায়নকারী ও বীজ ছড়ানোয় সহায়ক বড় আকারের বাদুড় কোনটি?
+A: ম্যারিয়ানা উড়ন্ত শিয়াল (Mariana Flying Fox, Pteropus mariannus)
+T: textbook::p4
+Q: সামোয়ান দ্বীপপুঞ্জে গাছের কত অংশ প্রজাতি পরাগায়ন বা বীজ ছড়ানোর জন্য উড়ন্ত শিয়ালের উপর নির্ভর করে?
+A: চার-পঞ্চমাংশ
+T: textbook::p4
+# শ্রেণিবিন্যাসের ভিত্তি — দেহের আকার, সংগঠন ও জীবনপদ্ধতি
+Q: প্রাণী শ্রেণিবিন্যাসের প্রধান ভিত্তি কয়টি?
+A: ১৬টি — দেহের আকার, সংগঠন ক্রমমাত্রা, জীবন পদ্ধতি, ক্লিভেজ ও ভ্রূণীয় বিকাশ, ভ্রূণস্তর, প্রতিসাম্য, খণ্ডকায়ন, অঞ্চলায়ন, উপাঙ্গ, প্রান্তিকতা, তল, সিলোম, সংবহনতন্ত্র, কঙ্কাল, নটোকর্ড, পৌষ্টিকনালি
+T: textbook::p5
+Q: আণুবীক্ষণিক প্রাণীর (Micro-animal) উদাহরণ কী?
+A: মাছের ফুলকার প্রোটিস্টান জীবাণু Trichodina anabasi
+T: textbook::p5
+Q: বৃহত্তর প্রাণীর (Macro-animal) উদাহরণ কী?
+A: Cavia porcellus (গিনিপিগ)
+T: textbook::p5
+Q: কোষীয় মাত্রার গঠন (Cellular grade) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Porifera
+T: textbook::p5
+Q: কোষ-টিস্যু মাত্রার গঠন (Cell-tissue grade) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Cnidaria
+T: textbook::p5
+Q: টিস্যু-অঙ্গ মাত্রার গঠন সর্বপ্রথম কোন পর্বের প্রাণিদেহে আবির্ভূত হয়েছে?
+A: Platyhelminthes
+T: textbook::p5
+Q: টিস্যু-অঙ্গ মাত্রার গঠনের উদাহরণ কী কী?
+A: চক্ষুবিন্দু, প্রোবোসিস, জননাঙ্গ
+T: textbook::p5
+Q: অঙ্গ-তন্ত্র মাত্রার গঠন সর্বপ্রথম কোন প্রাণিগোষ্ঠীতে আবির্ভূত হয়েছে?
+A: নিমারটিয়ান (Nemartean) নামক সামুদ্রিক প্রাণিগোষ্ঠীতে (অধিকাংশ পর্বে এ গঠন দেখা যায়)
+T: textbook::p5
+Q: মুক্তজীবী প্রাণীর (Free living) উদাহরণ কী?
+A: কবুতর (Columba livia)
+T: textbook::p5
+Q: পরজীবী প্রাণীর (Parasite) উদাহরণ কী?
+A: যকৃত কৃমি (Fasciola hepatica)
+T: textbook::p5
+Q: দুটি ভিন্ন প্রজাতির প্রাণী পারস্পরিক সহযোগিতা ও সাহচর্যে উভয়ই উপকৃত হলে তাদের কী বলে?
+A: মিথোজীবী প্রাণী (Symbiont)
+T: textbook::p6
+Q: দুটি ভিন্ন প্রজাতির প্রাণী একত্রে বাস করে একজন উপকৃত হলেও অন্যজন ক্ষতিগ্রস্ত না হলে তাদের কী বলে?
+A: সহজীবী প্রাণী (Commensal)
+T: textbook::p6
+Q: হাঙ্গর বা অন্য মাছের দেহে সংযুক্ত থেকে সহজীবিতা প্রদর্শন করে কোন মাছ?
+A: Remora নামের চোষকমাছ
+T: textbook::p6
+# ক্লিভেজ, ভ্রূণীয় বিকাশ ও ভ্রূণস্তর
+Q: যে প্রক্রিয়ায় জাইগোট মাইটোসিস বিভাজনে বহুকোষী ভ্রূণ সৃষ্টি করে তাকে কী বলে?
+A: ক্লিভেজ বা সম্ভেদ
+T: textbook::p6
+Q: ক্লিভেজের ফলে সৃষ্ট কোষগুলো কী নামে পরিচিত?
+A: ব্লাস্টোমিয়ার (blastomere)
+T: textbook::p6
+Q: ব্লাস্টোমিয়ার দিয়ে সৃষ্ট প্রথম বহুকোষীয় নিরেট ভ্রূণীয় দশার নাম কী?
+A: মরুলা (morula)
+T: textbook::p6
+Q: মরুলা ক্রমশ ফাঁপা কোন দশায় পরিণত হলে ক্লিভেজের সমাপ্তি ঘটে?
+A: ব্লাস্টুলা (blastula)
+T: textbook::p6
+Q: ডিমে কুসুমের পরিমাণের ভিত্তিতে ক্লিভেজ কয় ধরনের?
+A: ২ ধরনের — সম্পূর্ণ বা হলোব্লাস্টিক (holoblastic) এবং আংশিক বা মেরোব্লাস্টিক (meroblastic)
+T: textbook::p6
+Q: ডিমের যে প্রান্তে কুসুম থাকে এবং যে প্রান্তে নিউক্লিয়াস থাকে তাদের কী বলে?
+A: কুসুম প্রান্ত — ভেজিটাল পোল; নিউক্লিয়াস প্রান্ত — অ্যানিমেল পোল
+T: textbook::p6
+Q: ভ্রূণীয় কোষের ভবিষ্যৎ পরিস্ফুটনের ভিত্তিতে ক্লিভেজ কয় ধরনের?
+A: ২ ধরনের — অনির্ধারিত (Indeterminate) ও নির্ধারিত (Determinate) ক্লিভেজ
+T: textbook::p6
+Q: কোন ক্লিভেজে বিকাশমান কোষের ভবিষ্যৎ পরিণতি অঙ্গ গঠনের সময় নির্ধারিত হয়?
+A: অনির্ধারিত বা অনির্দিষ্ট ক্লিভেজ
+T: textbook::p6
+Q: কোন ক্লিভেজে বিকাশমান কোষের ভবিষ্যৎ পরিণতি ভ্রূণের প্রাথমিক পর্যায়ে নির্ধারিত হয়?
+A: নির্ধারিত বা নির্দিষ্ট ক্লিভেজ
+T: textbook::p6
+Q: বিভাজন তলের ভিত্তিতে ক্লিভেজ কয় ধরনের?
+A: ৩ ধরনের — অরীয়, দ্বিপার্শ্বীয় ও সর্পিল ক্লিভেজ
+T: textbook::p6
+Q: অরীয় ক্লিভেজ (Radial cleavage) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Arthropoda
+T: textbook::p6
+Q: দ্বিপার্শ্বীয় ক্লিভেজ (Bilateral cleavage) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Chordata
+T: exam::MAT_25-26 past_question textbook::p6
+Q: সর্পিল ক্লিভেজ (Spiral cleavage) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Annelida ও Mollusca
+T: textbook::p6
+Q: ক্লিভেজের ভিত্তিতে দ্বিপার্শ্বীয় প্রতিসম প্রাণীর ভ্রূণে কয় ধরনের বিকাশ হয়?
+A: ২ ধরনের — প্রোটোস্টোমিয়া ও ডিউটারোস্টোমিয়া
+T: textbook::p7
+Q: প্রোটোস্টোমিয়ার অন্তর্ভুক্ত পর্ব কোনগুলো?
+A: Annelida, Arthropoda ও Mollusca
+T: textbook::p7
+Q: প্রধান ডিউটারোস্টোম পর্ব কোনগুলো?
+A: Echinodermata ও Chordata
+T: textbook::p7
+Q: জাইগোট থেকে গ্যাস্ট্রুলা পর্যন্ত দশাগুলোর ক্রম কী?
+A: মরুলা (নিরেট) → ব্লাস্টুলা (ফাঁপা) → দ্বিস্তরী বা ত্রিস্তরী গ্যাস্ট্রুলা
+T: textbook::p7
+Q: কোন পর্বের প্রাণীরা দ্বিস্তরী (Diploblastic)?
+A: Cnidaria (যেমন — Hydra)
+T: exam::MAT_19-20 past_question textbook::p7
+Q: কোন পর্ব থেকে কোন পর্ব পর্যন্ত সকল প্রাণী ত্রিস্তরী?
+A: Platyhelminthes (Taenia solium) থেকে Chordata (Homo sapiens) পর্যন্ত
+T: textbook::p7
+Q: প্রাণীর তিনটি ভ্রূণীয় স্তর কে, কত সালে আবিষ্কার করেন?
+A: Heinz Christian Pander, ১৮১৭ সালে (মুরগির ভ্রূণ পর্যবেক্ষণকালে)
+T: textbook::p7
+Q: দ্বিস্তরী প্রাণীর দুটি ভ্রূণস্তরের মাঝে কোন অকোষীয় স্তর থাকে?
+A: মেসোগ্লিয়া (mesoglea)
+T: textbook::p8
+Q: নেমাটোসিস্ট এবং পলিপ ও মেডুসা দশা থাকে কোন প্রাণীতে — দ্বিস্তরী না ত্রিস্তরী?
+A: দ্বিস্তরী প্রাণীতে (ত্রিস্তরীতে অনুপস্থিত)
+T: textbook::p8
+Q: দ্বিস্তরী ও ত্রিস্তরী প্রাণীর দেহগহ্বরকে কী বলে?
+A: দ্বিস্তরী — গ্যাস্ট্রোভাস্কুলার গহ্বর বা সিলেন্টেরন; ত্রিস্তরী — সিলোম
+T: textbook::p8
+# প্রতিসাম্য
+Q: গোলীয় প্রতিসাম্য (Spherical symmetry) কোন জীবে দেখা যায়?
+A: Volvox globator (ফটোসিনথেটিক প্রোটিস্ট); Radiolaria (Acrosphaera trepanata) ও Heliozoa (Gymnosphaera albida) জাতীয় প্রোটিস্টান
+T: textbook::p8
+Q: অরীয় প্রতিসাম্য (Radial symmetry) কোন প্রাণীতে দেখা যায়?
+A: হাইড্রা (Hydra), জেলিফিশ (Aurelia), সী অ্যানিমন (Metridium)
+T: exam::MAT_23-24 past_question textbook::p8
+Q: দ্বিঅরীয় প্রতিসাম্যে প্রাণিদেহ কয়টি সদৃশ অংশে বিভক্ত করা যায়?
+A: ৪টি
+T: textbook::p8
+Q: দ্বিঅরীয় প্রতিসাম্য (Biradial symmetry) কোন পর্বের প্রাণীতে দেখা যায়?
+A: Ctenophora (টিনোফোরা), যেমন — Ceoloplana
+T: exam::MAT_17-18 past_question textbook::p8
+Q: দ্বিঅরীয় প্রতিসম Ceoloplana-তে কয়টি কর্ষিকা থাকে?
+A: দুটি কর্ষিকা থাকে
+T: textbook::p8
+Q: দ্বিপার্শ্বীয় প্রতিসাম্য (Bilateral symmetry) কোন প্রাণীতে দেখা যায়?
+A: প্রজাপতি (Pieris brassicae), ব্যাঙ (Minervarya asmati) প্রভৃতি
+T: exam::MAT_21-22 past_question textbook::p9
+Q: অপ্রতিসাম্য (Asymmetry) কোন প্রাণীতে দেখা যায়?
+A: স্পঞ্জ (Cliona celata), আপেল শামুক (Pila globosa)
+T: exam::MAT_13-14 past_question textbook::p9
+# খণ্ডকায়ন ও অঞ্চলায়ন
+Q: প্রাণিদেহে এক্টোডার্ম ও মেসোডার্ম উদ্ভূত সদৃশ একাধিক খণ্ডের রৈখিক বা অনুদৈর্ঘ্যিক পুনরাবৃত্তিকে কী বলে?
+A: খণ্ডকায়ন বা মেটামেরিজম (Metamerism)
+T: textbook::p9
+Q: খণ্ডকায়িত প্রাণিদেহের প্রত্যেক অংশকে কী বলে?
+A: খণ্ডক (segment), সোমাইট (somite) বা মেটামিয়ার (metamere)
+T: textbook::p9
+Q: কোন পর্বের প্রাণিদেহে প্রথম প্রকৃত খণ্ডকায়ন দেখা যায়?
+A: Annelida
+T: textbook::p9
+Q: Annelida পর্বের প্রাণীদের খণ্ডকায়ন কেমন?
+A: সম খণ্ডকায়ন; বাহ্যিক ও অভ্যন্তরীণ
+T: textbook::p9
+Q: Arthropoda পর্বের প্রাণীদের খণ্ডকায়ন কেমন?
+A: অসম খণ্ডকায়ন; বাহ্যিক (খণ্ড মিলে ট্যাগমা গঠন করে)
+T: textbook::p9
+Q: অখণ্ডকায়িত (asegmental) প্রাণীর উদাহরণ কী?
+A: সমুদ্র তারা, ঝিনুক
+T: textbook::p9
+Q: উন্নত খণ্ডায়িত প্রাণিদেহে কিছু খণ্ড একত্রে মিলে কী গঠন করে?
+A: নির্দিষ্ট কার্যকরী অঞ্চল — ট্যাগমা
+T: textbook::p9
+Q: খণ্ডায়িত প্রাণিদেহের প্রতিটি কার্যকরী অঞ্চলকে কী বলে?
+A: ট্যাগমা (tagma; বহুবচন — tagmata)
+T: textbook::p9
+Q: দেহকে ট্যাগমায় বিভক্তিকরণকে কী বলে?
+A: ট্যাগমাটাইজেশন (tagmatization) বা অঞ্চলায়ন
+T: textbook::p9
+Q: যে বিবর্তনিক প্রক্রিয়ায় প্রাণিদেহে অঞ্চলায়ন সম্পন্ন হয় তাকে কী বলে?
+A: ট্যাগমোসিস (tagmosis)
+T: textbook::p10
+Q: কোন পর্বের প্রত্যেক শ্রেণির প্রাণীতে বিশেষ বৈশিষ্ট্যপূর্ণ ট্যাগমাটাইজেশন দেখা যায়?
+A: Arthropoda
+T: textbook::p10
+Q: Insecta শ্রেণির প্রাণীদের দেহ কয়টি ট্যাগমায় বিভক্ত ও কী কী?
+A: ৩টি — মস্তক (head), বক্ষ (thorax) ও উদর (abdomen)
+T: textbook::p10
+Q: Crustacea শ্রেণির প্রাণীদের (চিংড়ি) দেহ কয়টি ট্যাগমায় বিভক্ত ও কী কী?
+A: ২টি — শিরোবক্ষ (cephalothorax) ও উদর (abdomen)
+T: textbook::p10
+Q: Arachnida (মাকড়শা) শ্রেণির প্রাণিদেহের ট্যাগমা দুটি কী কী?
+A: প্রোসোমা (prosoma) ও অপিসথোসোমা (opisthosoma)
+T: textbook::p10
+Q: চিংড়ির শিরোবক্ষ ও উদর কয়টি খণ্ড নিয়ে গঠিত?
+A: শিরোবক্ষ — ১৩টি খণ্ড; উদর — ৬টি খণ্ড
+T: textbook::p9
+# উপাঙ্গ, প্রান্তিকতা ও তল
+Q: Arthropoda, Mollusca, মাছ ও পতঙ্গ-পাখির উপাঙ্গ কী কী?
+A: Arthropoda — অ্যান্টেনা ও স্টাইল; Mollusca — পোডিয়া; মাছ — পাখনা; পতঙ্গ ও পাখি — ডানা; উচ্চতর মেরুদণ্ডী — পদ
+T: textbook::p10
+Q: প্রাণিদেহের প্রান্তিকতা সাধারণত কয় ধরনের ও কী কী?
+A: ৫ ধরনের — সম্মুখ (Anterior), পশ্চাৎ (Posterior), পৃষ্ঠীয় (Dorsal), অঙ্কীয় (Ventral) ও পার্শ্বীয় (Lateral) প্রান্ত
+T: textbook::p10
+Q: যে তল দিয়ে দেহকে পার্শ্বীয়ভাবে সদৃশ ডান ও বাম অর্ধাংশে ভাগ করা যায় তাকে কী বলে?
+A: মধ্যরেখীয় বা স্যাজিটাল তল (Median/Sagittal plane)
+T: textbook::p10
+Q: যে তল দিয়ে দেহকে পৃষ্ঠীয় ও অঙ্কীয় দুই অংশে ভাগ করা যায় তাকে কী বলে?
+A: সম্মুখ তল (Frontal plane)
+T: textbook::p10
+Q: যে তল দিয়ে দেহকে সম্মুখ ও পশ্চাৎ অর্ধাংশে ভাগ করা যায় তাকে কী বলে?
+A: অনুপ্রস্থ তল (Transverse plane)
+T: textbook::p10
+# সিলোম
+Q: মেসোডার্ম থেকে সৃষ্ট যে গহ্বর পেরিটোনিয়াম ঝিল্লিতে আবৃত থাকে তাকে কী বলে?
+A: সিলোম (Coelom)
+T: textbook::p11
+Q: সিলোম যে ঝিল্লিতে আবৃত থাকে তার নাম কী?
+A: পেরিটোনিয়াম (peritoneum)
+T: textbook::p11
+Q: অ্যাসিলোমেট প্রাণীর ব্লাস্টোসিল কী দিয়ে পূর্ণ থাকে?
+A: মেসোডার্ম উদ্ভূত স্পঞ্জি প্যারেনকাইমা (spongy parenchyma) কোষে
+T: textbook::p11
+Q: অ্যাসিলোমেট বা সিলোমবিহীন পর্ব কোনগুলো?
+A: Platyhelminthes, Nemertea
+T: exam::MAT_19-20 past_question textbook::p11
+Q: স্যুডোসিলোমেট বা অপ্রকৃত সিলোমযুক্ত পর্ব কোনগুলো?
+A: Nematoda, Rotifera, Kinorhyncha
+T: exam::MAT_14-15 past_question textbook::p11
+Q: ইউসিলোমেট বা প্রকৃত সিলোমযুক্ত পর্ব কোনগুলো?
+A: Mollusca, Annelida, Arthropoda, Echinodermata ও Chordata
+T: exam::MAT_13-14 past_question textbook::p11
+Q: সিলোম সৃষ্টির প্রকৃতির ভিত্তিতে প্রকৃত সিলোমযুক্ত প্রাণী কয় ভাগে বিভক্ত?
+A: ২ ভাগে — সাইজোসিলোমেট ও এন্টেরোসিলোমেট
+T: textbook::p11
+Q: সাইজোসিলোমেট (Schizocoelomate) পর্ব কোনগুলো?
+A: Annelida, Arthropoda ও Mollusca
+T: textbook::p11
+Q: কোন পর্বের প্রাণীদের সিলোম রক্ত দিয়ে পূর্ণ থাকে এবং সে সিলোমকে কী বলে?
+A: Arthropoda ও Mollusca; হিমোসিল (haemocoel)
+T: textbook::p11
+Q: এন্টেরোসিলোমেট (Enterocoelomate) পর্ব কোনগুলো?
+A: Echinodermata ও Chordata
+T: textbook::p11
+Q: এন্টেরোসিলোমেটদের সিলোম কোথা থেকে উৎপত্তি লাভ করে?
+A: আর্কেন্টেরনের প্রাচীরে সৃষ্ট মেসোডার্মাল থলি (mesodermal pouch) থেকে
+T: textbook::p11
+Q: নরমদেহী প্রাণীতে (অ্যানেলিড) তরলপূর্ণ সিলোম চলনের সময় কী হিসেবে কাজ করে?
+A: হাইড্রোস্ট্যাটিক কঙ্কাল
+T: textbook::p12
+# সংবহনতন্ত্র, কঙ্কাল ও নটোকর্ড
+Q: Porifera ও Echinodermata পর্বের প্রাণীদের দেহে কোন সংবহনতন্ত্র দেখা যায়?
+A: Porifera — নালিতন্ত্র (canal system); Echinodermata — পানি সংবহনতন্ত্র (water vascular system)
+T: textbook::p12
+Q: বদ্ধ রক্ত সংবহনতন্ত্র কোন পর্বের প্রাণীতে দেখা যায়?
+A: Annelida ও Chordata
+T: textbook::p12
+Q: মুক্ত রক্ত সংবহনতন্ত্র কোন পর্বের প্রাণীতে দেখা যায়?
+A: Arthropoda ও Mollusca
+T: textbook::p12
+Q: মুক্ত সংবহনতন্ত্রে রক্ত কোথায় ছড়িয়ে পড়ে?
+A: সাইনাস বা দেহগহ্বরে (টিস্যু-কোষের প্রত্যক্ষ সংস্পর্শে আসে)
+T: textbook::p12
+Q: অমেরুদণ্ডী প্রাণীতে অন্তঃকঙ্কালের উদাহরণ কী?
+A: পরিফেরাদের স্পিকিউল, একাইনোডার্মাটাদের ক্যালকেরিয়াস প্লেট
+T: textbook::p12
+Q: কোন প্রাণীর দেহে কঙ্কাল থাকে না?
+A: নরমদেহী প্রাণী — কেঁচো, কৃমি ইত্যাদি
+T: textbook::p12
+Q: মেসোডার্ম উদ্ভূত কোষে গঠিত, দেহের পৃষ্ঠ-মধ্যরেখা বরাবর অবস্থিত নমনীয়, স্থিতিস্থাপক ও ছিদ্রযুক্ত দণ্ডকে কী বলে?
+A: নটোকর্ড (Notochord)
+T: textbook::p12
+Q: নটোকর্ডের উপস্থিতি-অনুপস্থিতির ভিত্তিতে প্রাণী কয় ভাগে বিভক্ত?
+A: ২ ভাগে — ননকর্ডেট ও কর্ডেট
+T: textbook::p12
+Q: ননকর্ডেট প্রাণী কোন পর্ব থেকে কোন পর্ব পর্যন্ত?
+A: Porifera থেকে Echinodermata পর্যন্ত সকল প্রাণী
+T: textbook::p12
+Q: নটোকর্ডের অবস্থান ও স্থায়িত্ব অনুযায়ী Chordata পর্ব কয়টি উপপর্বে বিভক্ত ও কী কী?
+A: ৩টি — ইউরোকর্ডাটা, সেফালোকর্ডাটা ও ভার্টিব্রাটা
+T: textbook::p12
+Q: কোন উপপর্বের নটোকর্ড লেজ অঞ্চলে শুধুমাত্র লার্ভা দশায় থাকে? উদাহরণ কী?
+A: ইউরোকর্ডাটা (Urochordata); Ascidia (অ্যাসিডিয়া)
+T: textbook::p12
+Q: কোন উপপর্বের নটোকর্ড মস্তকের শীর্ষ থেকে পুচ্ছ পর্যন্ত সারাজীবন থাকে? উদাহরণ কী?
+A: সেফালোকর্ডাটা (Cephalochordata); Branchiostoma (ব্রাঙ্কিওস্টোমা)
+T: textbook::p12
+Q: কোন উপপর্বের নটোকর্ড পূর্ণাঙ্গ দশায় মেরুদণ্ড দিয়ে প্রতিস্থাপিত হয়?
+A: ভার্টিব্রাটা (Vertebrata)
+T: textbook::p12
+Q: ভার্টিব্রাটা উপপর্বের উদাহরণ কী কী?
+A: Labeo rohita (রুইমাছ), Duttaphrynus melanostictus (কুনোব্যাঙ), Panthera tigris (বাঘ)
+T: textbook::p12
+# পৌষ্টিকনালি ও প্রাণিজগতের শ্রেণিবিন্যাস
+Q: পৌষ্টিকনালির ভিত্তিতে প্রাণী কয় ভাগে বিভক্ত ও কী কী?
+A: ২ ভাগে — প্যারাজোয়া (Parazoa) ও এন্টেরোজোয়া (Enterozoa)
+T: textbook::p13
+Q: প্যারাজোয়া (নির্দিষ্ট পৌষ্টিকনালি বা গহ্বর নেই) কোন পর্বের প্রাণী?
+A: Porifera
+T: textbook::p13
+Q: এন্টেরোজোয়া (নির্দিষ্ট পৌষ্টিকনালি আছে) কোন পর্বগুলোর প্রাণী?
+A: Cnidaria থেকে Chordata পর্যন্ত
+T: textbook::p13
+Q: কোন বিজ্ঞানী কত সালে প্রাণিজগতকে প্রোটোজোয়া ও মেটাজোয়া — এ দুভাগে ভাগ করেন?
+A: হেকেল (Haeckel), ১৮৭৩ সালে
+T: textbook::p13
+Q: পাঁচ রাজ্য শ্রেণিবিন্যাসের (Five Kingdom Classification) প্রবর্তক কে ও কত সালে?
+A: R. H. Whittaker, ১৯৬৯ সালে
+T: textbook::p13
+Q: পাঁচ রাজ্য শ্রেণিবিন্যাসকে কারা আরো বিস্তারিতভাবে উপস্থাপন করেন?
+A: L. Margulis ও K. V. Schwartz (১৯৮২)
+T: textbook::p13
+Q: পাঁচটি রাজ্যের নাম কী কী?
+A: Monera, Protista, Fungi, Plantae, Animalia
+T: textbook::p13
+Q: Monera রাজ্যের উদাহরণ কী?
+A: Escherichia coli
+T: textbook::p13
+Q: Protista রাজ্যের উদাহরণ কী?
+A: Amoeba proteus, Spirogyra maxima
+T: textbook::p13
+Q: Fungi রাজ্যের উদাহরণ কী?
+A: Agaricus campestris
+T: textbook::p13
+Q: Plantae রাজ্যের উদাহরণ কী?
+A: Mangifera indica
+T: textbook::p13
+Q: Animalia রাজ্যের উদাহরণ কী?
+A: Panthera tigris
+T: textbook::p13
+# শ্রেণিবিন্যাসের নীতি, ট্যাক্সন ও ধাপ
+Q: শ্রেণিকরণের যেকোনো ধাপের জনগোষ্ঠীকে কী বলে?
+A: ট্যাক্সন (taxon; বহুবচনে taxa) — শ্রেণিবদ্ধগত একক (taxonomic unit)
+T: textbook::p13 textbook::p14
+Q: জীবজগতের শ্রেণিবিন্যাসে একটির উপর আরেকটি বিন্যস্ত ট্যাক্সোনমিক ক্যাটাগরিগুলোকে একত্রে কী বলে?
+A: হায়ারার্কি (hierarchy)
+T: textbook::p14
+Q: শ্রেণিবিন্যাসের আবশ্যিক (mandatory) ধাপ কয়টি ও কী কী?
+A: ৭টি — Kingdom, Phylum, Class, Order, Family, Genus ও Species
+T: textbook::p14
+Q: শ্রেণিবিন্যাসের মূল বা ভিত্তি একক কোনটি?
+A: প্রজাতি (Species)
+T: textbook::p14
+Q: শ্রেণিবিন্যাস স্তরের সর্বনিম্ন ধাপ কোনটি?
+A: Species (প্রজাতি)
+T: source::question_bank
+Q: শ্রেণিবিন্যাসের সর্বোচ্চ স্তর কোনটি?
+A: পর্ব (Phylum)
+T: textbook::p15
+Q: প্রাণী শ্রেণিবিন্যাসের সার্বজনীন স্তর কোনটি?
+A: রাজ্য (Kingdom)
+T: textbook::p15
+Q: কোন ধাপকে লিনিয়াস শ্রেণিবিন্যাসের স্তর হিসেবে স্বীকৃতি দেননি?
+A: গোত্র (Family)
+T: textbook::p15
+Q: কে, কত সালে ২১টি ক্যাটাগরি বা স্তর নিয়ে হায়ারার্কি প্রবর্তন করেন?
+A: Simpson, ১৯৬১ সালে
+T: textbook::p15
+# নামকরণ
+Q: প্রাণীর নামকরণ কয় ধরনের ও কী কী?
+A: ২ ধরনের — দ্বিপদ নামকরণ ও ত্রিপদ নামকরণ
+T: textbook::p15
+Q: দ্বিপদ নামকরণ পদ্ধতির প্রবর্তক কে ও কত সালে?
+A: সুইডিশ শ্রেণিতত্ত্ববিদ Carolus Linnaeus, ১৭৫৮ খ্রিস্টাব্দে
+T: textbook::p15
+Q: নীলনদ এলাকার চড়ুই পাখির বৈজ্ঞানিক নাম (ত্রিপদ) কী?
+A: Passer domesticus niloticus
+T: textbook::p16
+Q: ত্রিপদ নামকরণ সর্বপ্রথম কে, কত সালে প্রবর্তন করেন?
+A: জার্মান পাখিবিজ্ঞানী Hermann Schlegel, ১৮৪৪ সালে (ICZN কর্তৃক স্বীকৃত)
+T: textbook::p16
+Q: প্রাণী নামকরণের আন্তর্জাতিক সংস্থার নাম কী?
+A: International Commission on Zoological Nomenclature (ICZN)
+T: textbook::p16
+Q: দ্বিপদ নামের গণ নাম কোন অক্ষরে শুরু হয়?
+A: বড় হাতের অক্ষরে (যেমন — Panthera)
+T: textbook::p16
+Q: দ্বিপদ নামের প্রজাতিক নাম কোন অক্ষরে লেখা হয়?
+A: প্রথম অক্ষরসহ প্রত্যেক অক্ষর ছোট হাতের (যেমন — tigris)
+T: textbook::p16
+Q: বৈজ্ঞানিক নামের গণ ও প্রজাতি অংশের নাম একই হলে তাকে কী বলে? উদাহরণ কী?
+A: টটোনিম (tautonym); যেমন — Catla catla
+T: textbook::p16
+Q: অগ্রাধিকার আইন অনুসারে কোনো প্রাণীর যে নামটি প্রথমে বর্ণনা করা হয়েছে তাকে কী বলে?
+A: হোমোনিম (homonym) বা সমনাম
+T: textbook::p17
+Q: অগ্রাধিকার আইন অনুসারে কোনো প্রাণীর যে নামটি পরে প্রস্তাবিত হয়েছে তাকে কী বলে?
+A: সিনোনিম (synonym) বা প্রতিনাম
+T: textbook::p17
+Q: Homonym ও Synonym প্রয়োগ অনুযায়ী কী কী হিসেবে ভাগ করা হয়?
+A: Senior (যে নামটি আগে দেয়া হয়) ও Junior (যে নামটি পরে দেয়া হয়)
+T: textbook::p17
+Q: শ্রেণিবিন্যাসের তাত্ত্বিক প্রয়োজনীয়তাগুলো কী কী?
+A: প্রাণিজগত সম্পর্কে জানা; জাতিজনিক সম্পর্ক নির্ণয়; প্রাণী শনাক্তকরণ; সঠিক সংখ্যা নিরূপণ; বিবর্তনিক ধারা নির্ণয়; নতুন প্রজাতি শনাক্তকরণ
+T: textbook::p17 textbook::p18
+Q: শ্রেণিবিন্যাসের ফলিত প্রয়োজনীয়তাগুলো কী কী?
+A: অর্থনৈতিক গুরুত্বসম্পন্ন প্রাণী বাছাই; বালাই দমন; জীববৈচিত্র্য সংরক্ষণ; উন্নত জাত উদ্ভাবন; জীববিজ্ঞানের নতুন শাখার বিকাশ; বিবর্তনিক ধারা নির্ণয়
+T: textbook::p18
+# প্রধান ও গৌণ পর্ব (Hickman 2020)
+Q: প্রধান পর্ব (Major Phyla) হতে পর্বের প্রজাতিসংখ্যা কত হতে হয়?
+A: পাঁচ হাজারের বেশি
+T: textbook::p18
+Q: প্রধান পর্বগুলোর মধ্যে কয়টি ননকর্ডাটা ও কয়টি কর্ডাটা?
+A: ৮টি ননকর্ডাটা ও ১টি কর্ডাটা
+T: textbook::p18
+Q: Hickman et al. (2020)-এর Integrated Principles of Zoology (18th edition) অনুযায়ী প্রাণিজগতে মোট কয়টি পর্ব ও কয়টি প্রধান পর্ব?
+A: মোট ৩৩টি পর্ব; প্রধান পর্ব ৯টি
+T: textbook::p18
+Q: গৌণ পর্বের (Minor Phyla) উদাহরণ কী?
+A: Placozoa, Ctenophora
+T: textbook::p18
+Q: ৯টি প্রধান পর্বের নাম ক্রমানুসারে কী কী?
+A: Porifera, Cnidaria, Platyhelminthes, Nematoda, Mollusca, Annelida, Arthropoda, Echinodermata, Chordata
+T: textbook::p18
+# ননকর্ডাটা প্রাণীর বৈশিষ্ট্য
+Q: ননকর্ডাটা প্রাণীর পায়ু-পশ্চাৎ লেজ থাকে কি?
+A: না, পায়ু-পশ্চাৎ লেজ থাকে না
+T: textbook::p20
+Q: ননকর্ডাটা প্রাণীর রক্তের হিমোগ্লোবিন কোথায় অবস্থান করে?
+A: রক্তরসে (plasma)
+T: textbook::p20
+Q: ননকর্ডাটা প্রাণীর রক্ত সংবহনতন্ত্রে কোন তন্ত্র অনুপস্থিত?
+A: হেপাটিক পোর্টালতন্ত্র
+T: textbook::p20
+Q: ননকর্ডাটা প্রাণীতে চোখের উদ্ভব কোথা থেকে ঘটে?
+A: ত্বক থেকে
+T: textbook::p20
+Q: ননকর্ডাটা প্রাণীর স্নায়ুরজ্জু ও হৃৎযন্ত্রের অবস্থান কেমন?
+A: স্নায়ুরজ্জু গ্রন্থিযুক্ত, অঙ্কীয় ও নিরেট; হৃৎযন্ত্র পৃষ্ঠদেশে
+T: textbook::p20
+Q: Hickman অনুসারে ননকর্ডেটদের নিম্নশ্রেণির প্রাণী কোন পর্বগুলো?
+A: Porifera ও Cnidaria
+T: textbook::p20
+# Porifera
+Q: Porifera পর্বের নামকরণ কে, কত সালে করেন?
+A: Robert Grant, ১৮৩৬ সালে
+T: textbook::p21
+Q: দেহে অসংখ্য ছিদ্র থাকায় কোন পর্বের প্রাণীদের ছিদ্রাল প্রাণী বলে?
+A: Porifera (সাধারণভাবে স্পঞ্জ নামে পরিচিত)
+T: textbook::p21
+Q: Porifera পর্বের কোন গোত্রের প্রাণীরা মিঠাপানির বাসিন্দা?
+A: Spongillidae গোত্রের (১৫০ প্রজাতি); অধিকাংশ Porifera সামুদ্রিক
+T: textbook::p21
+Q: কিছু Porifera-র দেহাভ্যন্তরে অণুজীব কী হিসেবে বাস করে?
+A: এন্ডোসিমবায়োন্ট (endosymbiont)
+T: textbook::p21
+Q: Porifera-র দেহপ্রাচীরের বাইরের ও ভিতরের কোষস্তর দুটির নাম কী?
+A: বাইরে — পিনাকোডার্ম; ভিতরে — কোয়ানোডার্ম
+T: textbook::p21
+Q: Porifera-র দেহপ্রাচীরে অবস্থিত অসংখ্য ছিদ্রের নাম কী?
+A: অস্টিয়া (ostia)
+T: textbook::p21
+Q: Porifera-তে খাদ্য, অক্সিজেন ও শুক্রাণু কীভাবে দেহাভ্যন্তরে প্রবেশ করে?
+A: নালিতন্ত্রে পানিস্রোতের মাধ্যমে
+T: textbook::p21
+Q: Porifera-র অন্তঃপ্রাচীরে কোন বিশেষ ফ্ল্যাজেলাযুক্ত কোষ থাকে?
+A: কোয়ানোসাইট (choanocyte)
+T: textbook::p21
+Q: Porifera-র দেহের প্রশস্ত গহ্বরের নাম কী?
+A: স্পঞ্জোসিল (spongocoel)
+T: textbook::p21
+Q: Porifera-র দেহের শীর্ষপ্রান্তের বড় প্রান্তিক ছিদ্রের নাম কী?
+A: অসকুলাম (osculum)
+T: textbook::p21
+Q: Porifera-র দেহকাঠামো কী দিয়ে গঠিত?
+A: চুনময় স্পিকিউল (spicule) অথবা স্পঞ্জিন (spongin) তন্তু
+T: textbook::p21
+Q: Porifera-র জীবনচক্রে কোন লার্ভা দশা থাকে?
+A: সঞ্চরণশীল অ্যাম্ফিব্লাস্টুলা (amphiblastula) অথবা প্যারেনকাইমুলা (parenchymula)
+T: textbook::p21
+Q: Porifera পর্বের কয়টি শ্রেণি ও কী কী?
+A: ৩টি — Calcarea (মটকা স্পঞ্জ), Hexactinellida (দড়ি স্পঞ্জ), Demospongiae (মিঠা পানির স্পঞ্জ)
+T: textbook::p21
+# Cnidaria
+Q: Cnidaria পর্বের নামকরণ কে, কত সালে করেন?
+A: Hatschek, ১৮৮৮ সালে
+T: textbook::p22
+Q: জেলিফিশ কোন পর্বের প্রাণী?
+A: Cnidaria
+T: exam::MAT_25-26 exam::DAT_15-16 exam::MAT_15-16 past_question textbook::p22
+Q: প্রবাল ও প্রবাল-প্রাচীর গঠনকারী প্রাণীরা কোন পর্বের সদস্য?
+A: Cnidaria
+T: textbook::p22
+Q: কোন পর্বের প্রাণীদের "সমুদ্রের ফুল" (flower of the sea) বলা হয়?
+A: Cnidaria (নিডারিয়ান প্রাণী)
+T: textbook::p22
+Q: প্রবাল-প্রাচীরকে কী নামে অভিহিত করা হয়?
+A: সমুদ্রের Rain Forest বা বারিবন (পৃথিবীর অন্যতম রত্নভাণ্ডার)
+T: textbook::p22
+Q: Cnidaria কোন মাত্রার গঠনবিশিষ্ট প্রাণী?
+A: টিস্যু মাত্রার (tissue grade)
+T: textbook::p22
+Q: Cnidaria-র দেহপ্রাচীর কোন ধরনের কোষস্তরযুক্ত?
+A: দ্বিস্তরী বা ডিপ্লোব্লাস্টিক (diploblastic)
+T: textbook::p22
+Q: নেমাটোসিস্ট ধারণকারী বিশেষ কোষের নাম কী?
+A: নিডোসাইট (cnidocyte)
+T: textbook::p22
+Q: নিডারিয়ানদের দংশন অঙ্গাণু (stinging organelle) কোনটি?
+A: নেমাটোসিস্ট (nematocyst)
+T: textbook::p22
+Q: নেমাটোসিস্ট প্রাণীকে কী কী কাজে সাহায্য করে?
+A: আত্মরক্ষা, খাদ্য গ্রহণ ও দেহ পরিষ্কার-পরিচ্ছন্ন রাখা
+T: textbook::p22
+Q: Cnidaria-র দেহাভ্যন্তরের একমাত্র পরিপাক সংবহন গহ্বরের নাম কী?
+A: সিলেন্টেরন (coelenteron) বা গ্যাস্ট্রোভাস্কুলার গহ্বর
+T: textbook::p22
+Q: একই প্রজাতির প্রাণীতে ভিন্ন ভিন্ন গঠনের উপস্থিতিকে কী বলে?
+A: বহুরূপিতা (polymorphism)
+T: textbook::p22
+Q: বহুরূপী নিডারিয়ানের মৌলিক একক কী কী?
+A: পলিপ (polyp) ও মেডুসা (medusa)
+T: textbook::p22
+Q: Cnidaria-র জীবনচক্রে কোন লার্ভা দশা আছে?
+A: সিলিয়াযুক্ত প্লানুলা (plannula)
+T: textbook::p22
+Q: Cnidaria পর্বের ৪টি শ্রেণি কী কী?
+A: Hydrozoa (হাইড্রা), Scyphozoa (জেলিফিশ), Cubozoa (বক্স জেলিফিশ), Anthozoa (সমুদ্র পালক)
+T: textbook::p22
+# Platyhelminthes
+Q: Platyhelminthes পর্বের নামকরণ কে, কত সালে করেন?
+A: Minot, ১৮৭৬ সালে
+T: textbook::p23
+Q: প্রাণীদের মধ্যে সরলতম প্রথম ত্রিস্তরী প্রাণী কোন পর্বের?
+A: Platyhelminthes
+T: textbook::p23
+Q: কোন পর্বের প্রাণীদের চ্যাপ্টা কৃমি (flat worms) বলা হয়?
+A: Platyhelminthes
+T: textbook::p23
+Q: Platyhelminthes-এর দেহত্বক কী দিয়ে আবৃত?
+A: সিলিয়াযুক্ত এপিডার্মিস (ciliated epidermis) অথবা কিউটিকল (cuticle)
+T: textbook::p23
+Q: Platyhelminthes-এ পৌষ্টিকনালি ছাড়া আর কোন গহ্বর থাকে কি?
+A: না — একমাত্র পরিপাকনালি ছাড়া অন্তঃস্থ কোনো গহ্বর নেই
+T: textbook::p23
+Q: পোষকদেহে সংযুক্তির জন্য Platyhelminthes-এ কী থাকে?
+A: বাহ্যিক চোষক (sucker) বা হুক (hook) অথবা উভয়ই
+T: textbook::p23
+Q: Platyhelminthes-এর পৌষ্টিকতন্ত্র কেমন?
+A: পায়ুছিদ্রবিহীন এবং শাখান্বিত
+T: textbook::p23
+Q: Platyhelminthes-এর রেচনতন্ত্র কী নিয়ে গঠিত?
+A: শাখা-প্রশাখাযুক্ত রেচননালি ও শিখা কোষ (flame cell)
+T: textbook::p23
+Q: চ্যাপ্টা কৃমির জীবনচক্রে কোন কোন লার্ভা দশা থাকে?
+A: রেডিয়া (redia), সারকারিয়া (cercaria), স্পোরোসিস্ট (sporocysts), সিস্টিসারকাস (cysticercus)
+T: textbook::p23
+Q: Platyhelminthes পর্বের ৪টি শ্রেণি ও উদাহরণ কী?
+A: Turbellaria (প্ল্যানেরিয়া), Trematoda (যকৃত কৃমি), Monogenea (স্যালমন কৃমি), Cestoda (ফিতাকৃমি)
+T: textbook::p23
+Q: Schistosoma mansoni, Fasciola hepatica ও Taenia solium-এর সাধারণ নাম কী?
+A: মানুষের রক্ত কৃমি; যকৃত কৃমি; শূকরের ফিতা কৃমি
+T: textbook::p23
+# Nematoda
+Q: Nematoda পর্বের প্রাণিগুলো কী নামে পরিচিত?
+A: সুতা কৃমি (thread worm) বা গোল কৃমি (round worm)
+T: textbook::p24
+Q: Nematoda কোন মাত্রার গঠনবিশিষ্ট প্রাণী?
+A: অঙ্গ-তন্ত্র গঠন মাত্রার (organ-system grade)
+T: textbook::p24
+Q: Nematoda-র দেহ কী দিয়ে আবৃত?
+A: ইলাস্টিন (elastin) নির্মিত অকোষীয়, পুরু প্রতিরোধক্ষম কিউটিকল
+T: textbook::p24
+Q: কোন পর্বের প্রাণীর দেহকে 'নলের ভিতর নল' (tube within a tube) গঠনের মতো দেখায়?
+A: Nematoda
+T: textbook::p24
+Q: অধিকাংশ Nematoda একলিঙ্গ হওয়ায় কী দেখা যায়?
+A: যৌন দ্বিরূপতা (sexual dimorphism)
+T: textbook::p24
+Q: কোন পর্বের প্রাণীতে র‍্যাবডিটিফর্ম (rhabditiform) লার্ভা দশা দেখা যায়?
+A: Nematoda (র‍্যাবডিটিফর্ম বা মাইক্রোফাইলেরিয়া লার্ভা)
+T: exam::MAT_23-24 past_question textbook::p24
+Q: Nematoda পর্বের ২টি শ্রেণি ও উদাহরণ কী?
+A: Secernentea (গোলকৃমি) ও Adenophorea (চাবুক কৃমি)
+T: textbook::p24
+Q: Loa loa, Ascaris lumbricoides ও Wuchereria bancrofti-র সাধারণ নাম কী?
+A: চোখ কৃমি; গোল কৃমি/কেঁচো কৃমি; গোদরোগের কৃমি
+T: textbook::p24
+# Mollusca
+Q: Mollusca পর্বের প্রাণীদের বাংলা নাম কী?
+A: কম্বোজ প্রাণী
+T: textbook::p25
+Q: প্রাণিজগতের দ্বিতীয় বৃহত্তম পর্ব কোনটি?
+A: Mollusca
+T: exam::MAT_20-21 past_question textbook::p25
+Q: Mollusca-র দেহ কেমন?
+A: নরম, মাংসল ও অখণ্ডিত
+T: exam::MAT_22-23 past_question textbook::p25
+Q: Mollusca-র দেহগহ্বর কীসে পরিণত হয়েছে?
+A: হিমোসিল (haemocoel)-এ (দেহগহ্বর খুব সংক্ষিপ্ত)
+T: textbook::p25
+Q: Mollusca-র মুখবিবরে কাইটিন নির্মিত রেতি-জিহ্বার নাম কী? কোন শ্রেণিতে এটি থাকে না?
+A: র‍্যাডুলা (radula); Bivalvia-তে থাকে না
+T: exam::MAT_18-19 past_question textbook::p25
+Q: Mollusca-র রক্তে কোন রঞ্জক ও কণিকা থাকে?
+A: হিমোসায়ানিন (haemocyanin; আমিষ ও কপার) রঞ্জক ও অ্যামিবোসাইট (amoebocyte) কণিকা
+T: textbook::p25
+Q: Mollusca-তে শ্বসন কী দিয়ে সম্পন্ন হয়?
+A: ফুলকা ও ম্যান্টল পর্দা দিয়ে; স্থলচরদের ক্ষেত্রে পালমোনারি থলি
+T: textbook::p25
+Q: Mollusca-র জীবনচক্রে কোন লার্ভা থাকে?
+A: ট্রকোফোর (trochophore) বা ভেলিজার (veliger) বা গ্লচিডিয়াম (glochidium)
+T: textbook::p25
+Q: Mollusca পর্বের ৫টি শ্রেণি ও উদাহরণ কী?
+A: Caudofoveata (চকচকে কৃমি), Polyplacophora (কাইটন), Gastropoda (শামুক), Bivalvia (ঝিনুক), Cephalopoda (অক্টোপাস)
+T: textbook::p25
+Q: Pila globosa ও Octopus macropus-এর সাধারণ নাম কী?
+A: আপেল শামুক; অক্টোপাস
+T: textbook::p25
+# Annelida
+Q: Annelida পর্বের নামকরণ কে, কত সালে করেন?
+A: Lamarck, ১৮০৯ সালে
+T: textbook::p26
+Q: Annelida-র দেহ কেমন?
+A: লম্বা নলাকৃতির ও নরম
+T: textbook::p26
+Q: Annelida-র সিলোম কেমন?
+A: পেরিটোনিয়াম পর্দাবেষ্টিত ও তরলপূর্ণ প্রকৃত সিলোম
+T: textbook::p26
+Q: Annelida-র দেহ কীভাবে গঠিত?
+A: প্রকৃত খণ্ডকায়ন — আংটির মতো অনেকগুলো একই রকম খণ্ডক নিয়ে
+T: textbook::p26
+Q: Annelida-র প্রধান রেচন অঙ্গ কোনটি?
+A: নেফ্রিডিয়া (nephridia)
+T: textbook::p26
+Q: নেফ্রিডিয়াকে কী অর্গান বলা হয়?
+A: সেগমেন্টাল অর্গান (segmental organ)
+T: textbook::p26
+Q: Annelida-র রক্তরসে কোন রঞ্জক দ্রবীভূত থাকে?
+A: হিমোগ্লোবিন, হিমোএরিথ্রিন অথবা ক্লোরোক্রুয়োরিন
+T: textbook::p26
+Q: Annelida-র পরোক্ষ পরিস্ফুটনে কোন লার্ভার বিকাশ ঘটে?
+A: মুক্ত সাঁতারু ট্রোকোফোর (trochophore)
+T: textbook::p26
+Q: Annelida পর্বের শ্রেণি কয়টি ও কী কী?
+A: ৩টি — Polychaeta (নেরিস), Oligochaeta (কেঁচো), Hirudinea (জোঁক)
+T: textbook::p26
+Q: কেঁচোর বৈজ্ঞানিক নাম কী?
+A: Metaphire posthuma
+T: exam::DAT_13-14 exam::MAT_13-14 past_question textbook::p26
+# Arthropoda
+Q: Arthropoda পর্বের নামকরণ কে, কত সালে করেন?
+A: Von Siebold, ১৮৪৮ সালে
+T: textbook::p27
+Q: প্রাণিজগতের বৃহত্তম পর্ব কোনটি?
+A: Arthropoda (সন্ধিপদী প্রাণী)
+T: textbook::p27
+Q: Arthropoda-র বহিঃকঙ্কাল কী দিয়ে নির্মিত?
+A: কাইটিন (chitin); নিয়মিত মোচিত হয়
+T: textbook::p27
+Q: Arthropoda-র রক্ত সংবহনতন্ত্র কেমন?
+A: উন্মুক্ত (open)
+T: exam::DAT_12-13 exam::MAT_12-13 past_question textbook::p27
+Q: Arthropoda পর্বের প্রাণীদের প্রধান রেচন অঙ্গ কোনটি?
+A: ম্যালপিজিয়ান নালিকা (malpighian tubule)
+T: exam::MAT_23-24 past_question textbook::p27
+Q: Arthropoda-র জীবনচক্রে কোন দশা দেখা যায়?
+A: লার্ভা, পিউপা বা নিম্ফ দশা
+T: textbook::p27
+Q: Arthropoda পর্বকে কয়টি উপপর্ব ও কয়টি শ্রেণিতে ভাগ করা হয়েছে?
+A: ৪টি উপপর্ব, ১৩টি শ্রেণি
+T: textbook::p27
+Q: Arachnida, Myriapoda ও Insecta শ্রেণির উদাহরণ কী?
+A: Arachnida — মাকড়সা; Myriapoda — শতপদী; Insecta — তেলাপোকা
+T: textbook::p27
+Q: Tachypleus tridentatus-এর সাধারণ নাম কী?
+A: রাজ কাঁকড়া
+T: textbook::p27
+Q: Scolopendra laeta, Apis mellifera, Aedes aegypti ও Musca domestica-র সাধারণ নাম কী?
+A: শতপদী; মৌমাছি; ডেঙ্গুবাহী মশা; গৃহ মাছি
+T: textbook::p27
+Q: Macrobrachium rosenbergii-এর সাধারণ নাম কী?
+A: মিঠাপানির বড় চিংড়ি
+T: textbook::p27
+# Echinodermata
+Q: একাইনোডার্ম সদস্যদের কাঁটা কোথা থেকে উদগত হয়?
+A: ত্বকের নিচে শায়িত চুনময় অন্তঃকঙ্কালিক প্লেট (calcareous endoskeletal plates) থেকে
+T: textbook::p28
+Q: পূর্ণাঙ্গ Echinodermata-র প্রতিসাম্য কেমন? লার্ভা দশায় কেমন?
+A: পূর্ণাঙ্গ — পঞ্চঅরীয় (pentaradial); লার্ভা — দ্বিপার্শ্বীয়
+T: textbook::p28
+Q: Echinodermata-র বহিঃকঙ্কাল কী কী দিয়ে গঠিত?
+A: স্পাইন (spine) ও পেডিসিলারি (pedicellariae)
+T: textbook::p28
+Q: Echinodermata-র দেহ কোন দুটি তলে বিন্যস্ত?
+A: মৌখিক (oral) ও বিমৌখিক (aboral)
+T: textbook::p28
+Q: Echinodermata-র চলন অঙ্গ কোনটি?
+A: নালিকা পদ (tube feet)
+T: textbook::p28
+Q: Echinodermata-তে রক্ত সংবহনতন্ত্রের কাজ কোন তন্ত্র করে?
+A: হিমাল (haemal) ও পেরিহিমালতন্ত্র
+T: textbook::p28
+Q: Echinodermata-তে কোন কোন তন্ত্র অনুপস্থিত?
+A: রক্ত সংবহনতন্ত্র, মস্তিষ্ক ও রেচনতন্ত্র
+T: textbook::p28
+Q: কোন পর্বের সকল সদস্যই মুক্তজীবী সামুদ্রিক এবং কোনো পরজীবী সদস্য নেই?
+A: Echinodermata
+T: textbook::p28
+Q: Echinodermata পর্বের শ্রেণি কয়টি ও কী কী?
+A: ৬টি — Crinoidea (সমুদ্র পদ্ম), Concentricycloidea (সাগর ডেইজি), Asteroidea (সমুদ্র তারা), Ophiuroidea (সর্প তারা), Echinoidea (সাগর আর্চিন), Holothuroidea (সমুদ্র শসা)
+T: textbook::p28
+Q: Asterias rubens, Ophiura ciliaris, Antedon bifida, Echinus esculentus ও Holothuria tubulosa-র সাধারণ নাম কী?
+A: সমুদ্র তারা; ভঙ্গুর স্টার; পালক তারা; সমুদ্র চাকতি; সমুদ্র শসা
+T: textbook::p28
+# Chordata — সাধারণ বৈশিষ্ট্য
+Q: Chordata পর্বের নামকরণ কে, কত সালে করেন?
+A: Bateson, ১৮৮৫ সালে
+T: textbook::p29
+Q: Chordata-র ৫টি মৌলিক বৈশিষ্ট্য কী কী?
+A: নটোকর্ড, পৃষ্ঠীয় ফাঁপা স্নায়ুরজ্জু, গলবিলীয় ফুলকা রন্ধ্র, এন্ডোস্টাইল ও পায়ু-উত্তর লেজ
+T: textbook::p29
+Q: কর্ডেটদের স্নায়ুরজ্জু কেমন?
+A: নটোকর্ডের ঠিক উপরে লম্ব অক্ষ বরাবর ফাঁপা, নলাকার, পৃষ্ঠীয় স্নায়ুরজ্জু
+T: textbook::p29
+Q: কর্ডেটদের গলবিলের নিচে কোন অঙ্গ থাকে এবং পূর্ণবয়স্ক মেরুদণ্ডীতে এটি কীসে রূপান্তরিত হয়?
+A: এন্ডোস্টাইল (endostyle); থাইরয়েড গ্রন্থিতে
+T: textbook::p29
+Q: কর্ডেটদের রক্তের লোহিত কণিকায় কোন রঞ্জক থাকে এবং সংবহনতন্ত্রে কোন তন্ত্র আছে?
+A: হিমোগ্লোবিন; হেপাটিক পোর্টালতন্ত্র
+T: textbook::p29
+Q: কর্ডেটে হৃৎপিণ্ড কোথায় অবস্থান করে?
+A: অঙ্কীয়দেশে
+T: textbook::p29
+Q: কর্ডেটদের খণ্ডকায়ন কোথায় সীমাবদ্ধ থাকে?
+A: দেহপ্রাচীর, মস্তিষ্ক ও লেজে (সিলোম পর্যন্ত পৌঁছায় না)
+T: textbook::p29
+# প্রধান পর্বসমূহের অনন্য বৈশিষ্ট্য ও উদাহরণ
+Q: কোন পর্বের দেহে চুনময় স্পিকিউল ও স্পঞ্জিন নামক জৈবতন্তু বিদ্যমান?
+A: Porifera
+T: textbook::p30
+Q: Spongilla locustris ও Euspongia officinalis-এর সাধারণ নাম কী?
+A: মিঠা পানির স্পঞ্জ; গোসল স্পঞ্জ
+T: textbook::p30
+Q: Aurelia aurita ও Pennatula sulcata-র সাধারণ নাম কী?
+A: জেলি ফিশ; সমুদ্রের কলম
+T: textbook::p30
+Q: কোন পর্বের প্রাণীর রেচন অঙ্গে শিখাকোষ থাকে?
+A: Platyhelminthes
+T: textbook::p30
+Q: কোন পর্বের প্রাণীর পৌষ্টিকনালি প্যাঁচানো, কখনও "U" আকৃতির?
+A: Mollusca
+T: textbook::p30
+Q: কোন পর্বের চলনাঙ্গ সিটি বা প্যারাপোডিয়া অথবা অনুপস্থিত?
+A: Annelida
+T: textbook::p30
+Q: জোঁকের বৈজ্ঞানিক নাম কী?
+A: Hirudinaria medicinalis (চিত্রে মহিষা জোঁক — Hirudo medicinalis)
+T: textbook::p30 textbook::p26
+Q: কোন পর্বের প্রাণীর মস্তকে সাধারণত একজোড়া অ্যান্টেনি ও একজোড়া পুঞ্জাক্ষি থাকে?
+A: Arthropoda
+T: textbook::p30
+Q: Astropecten euryacanthus-এর সাধারণ নাম কী?
+A: তারা মাছ
+T: textbook::p30
+Q: ইলিশ মাছের বৈজ্ঞানিক নাম কী?
+A: Tenualosa ilisha
+T: textbook::p30
+Q: কোন পর্বে একটি পৃষ্ঠীয় ফাঁপা ও নলাকার স্নায়ুরজ্জু পৌষ্টিকনালির পৃষ্ঠদেশে প্রসারিত থাকে?
+A: Chordata
+T: textbook::p30
+# Chordata-র শ্রেণিবিন্যাস — Urochordata
+Q: Chordata পর্বের উপপর্ব Urochordata-র শ্রেণি কয়টি ও কী কী?
+A: ৩টি — Ascidiacea, Thaliacea, Larvacea
+T: textbook::p31
+Q: Cephalochordata-র পরে Vertebrata উপপর্বের দুটি অধিশ্রেণি (Superclass) কী কী?
+A: Cyclostomata (চোয়ালবিহীন মেরুদণ্ডী) ও Gnathostomata (চোয়ালযুক্ত মেরুদণ্ডী)
+T: textbook::p31
+Q: Cyclostomata অধিশ্রেণির শ্রেণি দুটি কী কী?
+A: Myxini ও Petromyzontida
+T: textbook::p31
+Q: Gnathostomata অধিশ্রেণির ৭টি শ্রেণি কী কী?
+A: Chondrichthyes, Actinopterygii, Sarcopterygii, Amphibia, Reptilia, Aves, Mammalia
+T: textbook::p31
+Q: Urochordata উপপর্ব প্রায় কতটি প্রজাতি নিয়ে গঠিত?
+A: প্রায় ৩,০০০টি
+T: textbook::p31
+Q: কোন প্রাণীরা সাইফন দিয়ে সজোরে পানি উৎসারিত করে বলে "সাগর ফোয়ারা" (sea squirt) নামে পরিচিত?
+A: ইউরোকর্ডেট (Urochordata; বিশেষত Ascidiacea)
+T: textbook::p31 textbook::p32
+Q: সমুদ্রের পানি থেকে ছাঁকন পদ্ধতিতে খাদ্য গ্রহণ করায় ইউরোকর্ডেটদের কী বলে?
+A: Suspension feeder
+T: textbook::p31
+Q: ইউরোকর্ডেটদের দেহ কী নির্মিত আবরণে আবৃত?
+A: টিউনিসিন (tunicin)
+T: textbook::p31
+Q: টিউনিসিনকে কী বলা হয়?
+A: প্রাণীজ সেলুলোজ (animal cellulose)
+T: textbook::p31
+Q: ইউরোকর্ডেটদের আবরণকে কী বলে এবং গোষ্ঠীগত নাম কী?
+A: টিউনিক (tunic); টিউনিকেটা (Tunicata)
+T: textbook::p31
+Q: জীবনচক্রে প্রগতিশীল বৈশিষ্ট্যের পশ্চাৎমুখি রূপান্তরকে কী বলে?
+A: প্রতীপ রূপান্তর (retrogressive metamorphosis)
+T: textbook::p31
+Q: কোন শ্রেণির প্রাণীতে প্রতীপ রূপান্তর দেখা যায়?
+A: Ascidiacea (Urochordata)
+T: exam::DAT_23-24 past_question textbook::p32
+Q: Urochordata-র লার্ভার রূপান্তরের সময় স্নায়ুরজ্জু কীসে পরিণত হয়?
+A: স্নায়ুগ্রন্থি বা গ্যাংলিওন (ganglion)
+T: textbook::p32
+Q: কোন প্রাণীর হৃৎচক্রে রিভার্স পেরিস্ট্যালসিস (reverse peristalsis) দেখা যায়?
+A: Urochordata
+T: textbook::p32
+Q: Urochordata-র জীবনচক্রে কোন লার্ভা দশা থাকে?
+A: ট্যাডপোল (tadpole) লার্ভা
+T: textbook::p32
+Q: Ascidiacea শ্রেণির প্রজাতির সংখ্যা কত এবং কী নামে পরিচিত?
+A: ২৮৬০; সমুদ্রের ফোয়ারা (sea squirt)
+T: textbook::p32
+Q: Ascidiacea-র অন্যপ্রান্তে কোন ছিদ্রবাহী দুটি প্রবর্ধন থাকে?
+A: নলাকার oral ও atrial siphon
+T: textbook::p32
+Q: Ascidiacea-র গলবিলে অসংখ্য ফুলকা রন্ধ্রকে কী বলে এবং পৌষ্টিকনালির আকৃতি কেমন?
+A: স্টিগমাটা (stigmata); পৌষ্টিকনালি "U" আকৃতির
+T: textbook::p32
+Q: Ascidiacea শ্রেণির উদাহরণ কী?
+A: Ascidia mentula, Herdmania momus
+T: textbook::p32
+Q: Thaliacea শ্রেণির প্রজাতির সংখ্যা কত এবং দেহ কেমন?
+A: ৭০; দেহ ফাঁপা নল বা পিপাকৃতির
+T: textbook::p32
+Q: Thaliacea শ্রেণির উদাহরণ কী?
+A: Pyrosoma atlanticum, Salpa maxima
+T: textbook::p32
+# Larvacea ও Cephalochordata
+Q: Larvacea শ্রেণির প্রজাতির সংখ্যা কত এবং পরিণত প্রাণী কেমন?
+A: ৭০; ব্যাঙাচি-সদৃশ লার্ভার মতো ও উন্মুক্ত সমুদ্রপৃষ্ঠবাসী
+T: textbook::p33
+Q: Larvacea-র স্নায়ুরজ্জু ও নটোকর্ডবাহী লেজ কোথায় অবস্থান করে?
+A: বেঁকে দেহের নিচে সমান্তরালে
+T: textbook::p33
+Q: Larvacea শ্রেণির উদাহরণ কী?
+A: Bathochordeus stygius, Oikopleura dioica
+T: textbook::p33
+Q: সেফালোকর্ডেটদের ডাক নাম কী?
+A: ভল্লাকার বা বল্লমাকার প্রাণী (lancelets)
+T: textbook::p33
+Q: পৃথিবীতে এখন পর্যন্ত কত প্রজাতির সেফালোকর্ডেট শনাক্ত করা হয়েছে?
+A: ৩৩ প্রজাতি
+T: textbook::p33
+Q: Branchiostoma-র দেহের সম্মুখপ্রান্তে কী থাকে?
+A: ওরাল সিরি (oral cirri)-তে আবৃত নিম্নমুখী ওরাল হুড (oral hood)
+T: textbook::p33
+Q: Branchiostoma-র দেহের দুপাশে কোন আকারের কোন পেশি থাকে?
+A: ">" আকারের মায়োটোম পেশি
+T: textbook::p33
+Q: Branchiostoma lanceolatum-এর সাধারণ নাম কী?
+A: সাধারণ ল্যান্সলেট
+T: textbook::p33
+# Vertebrata ও Cyclostomata
+Q: Vertebrata উপপর্বের আরেক নাম কী?
+A: ক্রেনিয়াটা (Craniata)
+T: textbook::p34
+Q: Vertebrata উপপর্বের জীবিত প্রজাতির সংখ্যা কত?
+A: প্রায় ৬৬,০০০
+T: textbook::p34
+Q: মেরুদণ্ডীদের পৃষ্ঠীয় ফাঁপা স্নায়ুরজ্জু কী গঠন করে?
+A: মস্তিষ্ক ও সুষুম্নাকাণ্ড
+T: textbook::p34
+Q: মেরুদণ্ডীদের গলবিলের উভয় পাশে কত জোড়া ফুলকা রন্ধ্র থাকে?
+A: ৫–১৫ জোড়া
+T: textbook::p34
+Q: মেরুদণ্ডীদের প্রধান রেচন অঙ্গ কোনটি এবং কোন ভ্রূণস্তর থেকে উদ্ভূত?
+A: বৃক্ক (kidney); মেসোডার্ম থেকে
+T: textbook::p34
+Q: মেরুদণ্ডীদের মস্তিষ্ক কয় অংশে বিভেদিত এবং কত জোড়া করোটিক স্নায়ু থাকে?
+A: তিন অংশে; ১০–১২ জোড়া
+T: textbook::p34
+Q: Myxini শ্রেণিভুক্ত মাছ কী নামে পরিচিত?
+A: হ্যাগফিশ (hagfish)
+T: textbook::p34
+Q: হ্যাগফিশকে আর কী নামে অভিহিত করা হয়?
+A: স্লাইম ঈল (slime eel)
+T: textbook::p34
+Q: বর্তমানে প্রায় কত প্রজাতির হ্যাগফিশ রয়েছে?
+A: প্রায় ৭০ প্রজাতি; সবাই সামুদ্রিক
+T: textbook::p34
+Q: হ্যাগফিশের মেরুদণ্ডে কী থাকে?
+A: নটোকর্ড এবং তন্তুময় নিউরাল টিউব (neural tube)
+T: textbook::p34
+Q: হ্যাগফিশের জীবনচক্রে লার্ভা দশা আছে কি?
+A: না; একলিঙ্গ, নিষেক বাহ্যিক, ডিম কুসুমযুক্ত বৃহদাকৃতির
+T: textbook::p34
+Q: Myxine glutinosa-র সাধারণ নাম কী?
+A: আটলান্টিক হ্যাগফিশ
+T: textbook::p35
+Q: Petromyzontida শ্রেণিভুক্ত মাছ কী নামে পরিচিত?
+A: ল্যামপ্রে (lamprey)
+T: textbook::p35
+Q: বর্তমানে প্রায় কত প্রজাতির ল্যামপ্রে রয়েছে?
+A: প্রায় ৪১ প্রজাতি
+T: textbook::p35
+Q: ল্যামপ্রের ডিম ফুটে কোন লার্ভা বের হয়?
+A: অ্যামোসিট (ammocoete)
+T: textbook::p35
+# Chondrichthyes ও Actinopterygii
+Q: বর্তমানে প্রায় কত প্রজাতির তরুণাস্থিময় মাছ শনাক্ত করা হয়েছে?
+A: প্রায় ১০০০ প্রজাতি
+T: textbook::p35
+Q: Chondrichthyes-এর অন্তঃকঙ্কাল কেমন?
+A: সম্পূর্ণ তরুণাস্থিময়
+T: textbook::p35
+Q: Chondrichthyes-এর দেহ কোন ধরনের আঁইশে আবৃত?
+A: প্ল্যাকয়েড (placoid)
+T: textbook::p35
+Q: Chondrichthyes-এর পুচ্ছ-পাখনা কোন ধরনের?
+A: হেটারোসার্কাল (heterocercal) — অংশ দুটি অসমান
+T: textbook::p36
+Q: Chondrichthyes-এর পাকস্থলী কোন আকৃতির?
+A: "J" আকৃতির
+T: textbook::p36
+Q: Chondrichthyes-এ বায়ুথলি (swim bladder) থাকে কি?
+A: না
+T: textbook::p36
+Q: Scoliodon laticaudus, Pristis pectinata, Torpedo torpedo ও Eusphyra blochii-র সাধারণ নাম কী?
+A: থুট্টি হাঙর; করাত মাছ; ইলেকট্রিক মাছ; হাতুড়ী হাঙর
+T: textbook::p35
+Q: অস্থিময় মাছগুলো কী নামে পরিচিত?
+A: রশ্মিময় পাখনাবিশিষ্ট মাছ (ray-finned fishes) — Actinopterygii
+T: textbook::p36
+Q: জীবিত মাছের কত শতাংশ Actinopterygii শ্রেণির অন্তর্ভুক্ত?
+A: প্রায় ৯৬%
+T: textbook::p36
+Q: Actinopterygii-র ত্বক কোন ধরনের আঁইশে আবৃত?
+A: সাইক্লয়েড (cycloid; গোলাকার) বা টিনয়েড (ctenoid; কাঁটাযুক্ত)
+T: textbook::p36
+Q: Wallago attu ও Chelenodon patoca-র সাধারণ নাম কী?
+A: বোয়াল মাছ; পটকা মাছ
+T: textbook::p36
+Q: Hippocampus erectus-এর সাধারণ নাম কী?
+A: সমুদ্র ঘোড়া
+T: textbook::p36
+Q: Actinopterygii-র পুচ্ছ-পাখনা কোন ধরনের?
+A: হোমোসার্কাল (homocercal) — অংশ দুটি সমান
+T: textbook::p37
+Q: অস্থিময় মাছকে পানিতে ভেসে থাকতে সাহায্য করে কোনটি?
+A: বায়ুথলি বা পটকা (swim bladder)
+T: textbook::p37
+# Sarcopterygii
+Q: Sarcopterygii শ্রেণিভুক্ত মাছকে কী বলে?
+A: পিণ্ডাকার-পাখনাবিশিষ্ট মাছ (lobe-finned fishes)
+T: textbook::p37
+Q: লাংফিশ (lungfish) কোথায় বিস্তৃত?
+A: আফ্রিকা, দক্ষিণ আমেরিকা ও অস্ট্রেলিয়ায়
+T: textbook::p37
+Q: সিলাকান্থ (Coelacanth) নামে পরিচিত দুই প্রজাতি কোথায় বিস্তৃত?
+A: ভারত মহাসাগর ও ইন্দোনেশিয়ার উপকূলে
+T: textbook::p37
+Q: Sarcopterygii-র দেহ কোন ধরনের আঁইশে আবৃত?
+A: গ্যানয়েড (ganoid)
+T: textbook::p37
+Q: Sarcopterygii-র লেজ কোন ধরনের?
+A: ডিফিসার্কাল (diphycercal)
+T: textbook::p37
+Q: Latimeria chalumnae ও Neoceratodus forsteri-র সাধারণ নাম কী?
+A: সিলাকান্থ মাছ; অস্ট্রেলিয়ান লাংফিশ
+T: textbook::p37
+Q: বাংলাদেশে কত প্রজাতির স্বাদুপানির ও সামুদ্রিক মাছ পাওয়া যায়?
+A: স্বাদুপানির ২৫১ প্রজাতি ও সামুদ্রিক ৪০২ প্রজাতি
+T: textbook::p37
+# Amphibia ও Reptilia
+Q: বর্তমানে জীবিত উভচর প্রজাতির সংখ্যা কত?
+A: ৭,৭০০টি
+T: textbook::p37
+Q: বাংলাদেশে প্রাপ্ত উভচর প্রজাতির সংখ্যা কত?
+A: ৩৪টি
+T: textbook::p37
+Q: উভচররা তাপমাত্রার দিক থেকে কোন ধরনের প্রাণী?
+A: এক্টোথার্মিক (ectothermic)
+T: textbook::p38
+Q: উভচরদের ত্বক কেমন?
+A: মসৃণ, আর্দ্র ও গ্রন্থিময় (শ্বসনেও সাহায্য করে)
+T: textbook::p38
+Q: উভচরদের অগ্রপদ ও পশ্চাৎপদে কয়টি করে আঙুল থাকে?
+A: অগ্রপদে চারটি ও পশ্চাৎপদে পাঁচটি করে নখরবিহীন আঙুল
+T: textbook::p38
+Q: উভচরদের হৃৎপিণ্ড কয় প্রকোষ্ঠবিশিষ্ট?
+A: তিন প্রকোষ্ঠবিশিষ্ট — দুটি অ্যাট্রিয়া (অলিন্দ) ও একটি ভেন্ট্রিকল (নিলয়)
+T: textbook::p38
+Q: উভচরদের জীবনচক্রে কোন লার্ভা দশা থাকে?
+A: ট্যাডপোল (tadpole)
+T: textbook::p38
+Q: Salamandra salamandra ও Duttaphrynus melanostictus-এর সাধারণ নাম কী?
+A: স্যালামান্ডার; কুনোব্যাঙ
+T: textbook::p38
+Q: কোন যুগকে সরীসৃপের যুগ (age of reptiles) বলা হয়?
+A: মেসোজোয়িক যুগ (mesozoic era)
+T: textbook::p38
+Q: বাংলাদেশে প্রাপ্ত সরীসৃপ প্রজাতির সংখ্যা কত?
+A: ১৫৪টি
+T: textbook::p38
+Q: সরীসৃপরা কীভাবে চলাচল করে?
+A: বুকে ভর দিয়ে চলে
+T: textbook::p38
+Q: কোন সরীসৃপের হৃৎপিণ্ড সম্পূর্ণভাবে চার প্রকোষ্ঠবিশিষ্ট?
+A: কুমির
+T: exam::DAT_21-22 past_question textbook::p39
+Q: সরীসৃপদের করোটি কয়টি অক্সিপিটাল কন্ডাইল দিয়ে মেরুদণ্ডের সাথে যুক্ত থাকে?
+A: একটি
+T: textbook::p39
+Q: সরীসৃপদের ভ্রূণে কয়টি বহিঃভ্রূণীয় ঝিল্লি সৃষ্টি হয় ও কী কী?
+A: ৪টি — অ্যামনিয়ন, কোরিওন, কুসুমথলি ও অ্যালানটয়েস (এ কারণে লার্ভা দশা নেই)
+T: textbook::p39
+# Aves
+Q: বাংলাদেশে প্রাপ্ত পাখির প্রজাতির সংখ্যা কত?
+A: ৬৫০ (স্থায়ী) ও ১৭৬ (পরিযায়ী)
+T: textbook::p39
+Q: পাখির গ্রীবা কেমন?
+A: প্রলম্বিত এবং "S" আকৃতির
+T: textbook::p39
+Q: পাখির চোয়াল কীসে পরিণত হয়েছে?
+A: দাঁতবিহীন চঞ্চু (beak)
+T: textbook::p39
+Q: বায়ুগহ্বরপূর্ণ (pneumatic) অস্থিসম্পন্ন প্রাণী কোনটি?
+A: পাখি
+T: exam::MAT_25-26 past_question textbook::p39
+Q: Columba livia ও Pelecanus conspicillatus-এর সাধারণ নাম কী?
+A: কবুতর; অস্ট্রেলিয়ান পেলিকান
+T: textbook::p39
+Q: বাংলাদেশের জাতীয় পাখি দোয়েলের বৈজ্ঞানিক নাম কী?
+A: Copsychus saularis
+T: exam::DAT_21-22 past_question textbook::p39
+Q: পাখির হৃৎপিণ্ড কয় প্রকোষ্ঠবিশিষ্ট?
+A: ৪ প্রকোষ্ঠবিশিষ্ট — দুটি অ্যাট্রিয়া ও দুটি ভেন্ট্রিকল
+T: textbook::p39
+Q: কোন প্রাণীর শরীরে প্রথম সমোষ্ণশোণিত বা এন্ডোথার্মিক অবস্থা দেখা দিয়েছে?
+A: পাখি
+T: textbook::p39
+# Mammalia
+Q: বর্তমানে প্রায় কত প্রজাতির স্তন্যপায়ী রয়েছে এবং বাংলাদেশে কত?
+A: প্রায় ৬ হাজার; বাংলাদেশে ৯৯টি
+T: textbook::p40
+Q: কোন স্তন্যপায়ী লোম (hair) দ্বারা আবৃত নয়?
+A: তিমি
+T: textbook::p40
+Q: স্তন্যপায়ীর নবজাতক কী দ্বারা লালিত হয়?
+A: স্ত্রী প্রাণীর স্তনগ্রন্থি (mammary gland) থেকে ক্ষরিত মাতৃদুগ্ধে
+T: textbook::p40
+Q: মধ্যচ্ছদা বা ডায়াফ্রাম (diaphragm)-এর উপস্থিতি কোন শ্রেণির প্রাণীর বৈশিষ্ট্য?
+A: Mammalia
+T: exam::DAT_18-19 past_question textbook::p40
+Q: স্তন্যপায়ীর রক্ত সংবহন কোন ধরনের?
+A: দ্বি-চক্রীয় সংবহন (double circulation) — সিস্টেমিক ও পালমোনারি চক্র
+T: textbook::p40
+Q: প্রায় সব স্তন্যপায়ী কোন ধরনের প্রাণী (প্রজনন অনুযায়ী)?
+A: জরায়ুজ — বাচ্চা প্রসব করে
+T: textbook::p40
+Q: Mammalia শ্রেণিকে কয়টি উপশ্রেণিতে ভাগ করা হয়?
+A: ৩টি — Prototheria, Metatheria, Eutheria
+T: textbook::p40
+Q: Prototheria উপশ্রেণির স্তন্যপায়ীদের কী বলে?
+A: ডিমপ্রসবী স্তন্যপায়ী
+T: textbook::p40
+Q: Prototheria কী প্রসব করে?
+A: থলথলে চামড়ার মতো আবরণযুক্ত ডিম
+T: textbook::p40
+Q: রেচন-জনন-পরিপাকতন্ত্রের জন্য একটি অভিন্ন ছিদ্রপথ থাকায় Prototheria-দের কী বলে?
+A: মনোট্রিম (monotreme)
+T: textbook::p40
+Q: কোন স্তন্যপায়ী প্রাণী ডিম পাড়ে?
+A: প্লাটিপাস (Ornithorhynchus anatinus) ও খাটোতুণ্ড একিডনা (Tachyglossus aculeatus)
+T: exam::DAT_21-22 past_question textbook::p40
+Q: Metatheria উপশ্রেণির স্তন্যপায়ীদের কী বলে?
+A: মার্সুপিয়াল
+T: textbook::p41
+Q: Metatheria কোন ধরনের অমরাবিশিষ্ট?
+A: সরল ধরনের অমরা (choriovitelline; কুসুমথলি ও কোরিওন সমন্বয়ে গঠিত)
+T: textbook::p41
+Q: মার্সুপিয়াল স্ত্রী প্রাণীতে নবজাতক পরিপূর্ণ না হওয়া পর্যন্ত যে থলিতে থাকে তার নাম কী?
+A: মারসুপিয়াম (marsupium)
+T: textbook::p41
+Q: Metatheria-র স্ত্রী প্রাণীতে কয়টি জরায়ু ও যোনি থাকে?
+A: দুটি জরায়ু ও দুটি যোনি
+T: textbook::p41
+Q: Osphranter rufus, Didelphis virginiana ও Phascolarctos cinereus-এর সাধারণ নাম কী?
+A: লাল ক্যাঙ্গারু; ভার্জিনিয়া অপোসাম; কোয়ালা
+T: textbook::p41
+Q: Eutheria উপশ্রেণির স্তন্যপায়ীদের কী বলে এবং অমরা কোন ধরনের?
+A: প্রকৃত অমরাধর স্তন্যপায়ী; প্রকৃত অমরা (chorioallantoic; কোরিওন ও অ্যালানটয়েস সমন্বয়ে গঠিত)
+T: textbook::p41
+Q: Eutheria-র শুক্রাশয় সাধারণত কোথায় অবস্থান করে?
+A: স্ক্রোটাল থলি (scrotal sac)-তে
+T: textbook::p41
+Q: Platanista gangetica, Rusa unicolor ও Pteropus giganteus-এর সাধারণ নাম কী?
+A: শুশুক; রুসা হরিণ; ফল বাদুড়
+T: textbook::p41
+# মেরুদণ্ডী শ্রেণিগুলোর তুলনা ও পার্থক্য
+Q: Myxini শ্রেণির মুখপ্রান্তে কী থাকে এবং কত জোড়া ফুলকা রন্ধ্র?
+A: ৪ জোড়া কর্ষিকা; ৫–১৫ জোড়া গলবিলীয় ফুলকা রন্ধ্র
+T: textbook::p42
+Q: Petromyzontida-য় কত জোড়া গলবিলীয় ফুলকা রন্ধ্র থাকে?
+A: ৭ জোড়া
+T: textbook::p42 textbook::p35
+Q: Petromyzon marinus-এর সাধারণ নাম কী?
+A: ল্যামপ্রে (পেট্রোমাইজন)
+T: textbook::p42
+Q: Eptatretus stouti-র সাধারণ নাম কী?
+A: প্যাসিফিক হ্যাগফিশ
+T: textbook::p42
+Q: Plesiobatis daviesi-র সাধারণ নাম কী?
+A: স্টিং রে
+T: textbook::p42
+Q: রুই মাছের বৈজ্ঞানিক নাম কী?
+A: Labeo rohita
+T: textbook::p42
+Q: উভচরদের দেহত্বক কেমন?
+A: নগ্ন, গ্রন্থিময় ও সিক্ত
+T: textbook::p42
+Q: ঘড়িয়ালের বৈজ্ঞানিক নাম কী?
+A: Gavialis gangeticus
+T: textbook::p42
+Q: পাখির দেহ কী দিয়ে আবৃত?
+A: পালক
+T: textbook::p42
+Q: বাঘের বৈজ্ঞানিক নাম কী?
+A: Panthera tigris
+T: textbook::p42
+Q: কর্ডাটা পর্বের উল্লেখযোগ্য তিনটি বৈশিষ্ট্য কী কী?
+A: দণ্ডাকার স্থিতিস্থাপক নটোকর্ড, ফাঁপা পৃষ্ঠীয় স্নায়ুরজ্জু ও গলবিলীয় ফুলকা রন্ধ্র
+T: textbook::p43
+Q: কর্ডাটার তিনটি উপপর্বের উদাহরণ কী?
+A: Urochordata — Ascidia; Cephalochordata — Branchiostoma; Vertebrata — Copsychus (দোয়েল), Hyla (ব্যাঙ)
+T: textbook::p43
+Q: কোন দুটি উপপর্বের কর্ডেটকে আদি কর্ডেট বা প্রোটোকর্ডেট (Protochordate) বলে?
+A: Urochordata ও Cephalochordata
+T: textbook::p43
+Q: সকল মেরুদণ্ডী প্রাণী কর্ডেট — নাকি সকল কর্ডেট মেরুদণ্ডী?
+A: সকল মেরুদণ্ডী প্রাণীই কর্ডেট (সকল কর্ডেট মেরুদণ্ডী নয়)
+T: textbook::p43
+Q: কর্ডেট ও ননকর্ডেট প্রাণীর চক্ষু কোথা থেকে সৃষ্টি হয়?
+A: কর্ডেট — মস্তিষ্ক থেকে; ননকর্ডেট — ত্বক থেকে
+T: textbook::p43
+Q: মেরুদণ্ডী ও অমেরুদণ্ডী প্রাণীর মস্তিষ্ক কী দিয়ে সুরক্ষিত থাকে?
+A: মেরুদণ্ডী — করোটির অভ্যন্তরে সুরক্ষিত; অমেরুদণ্ডী — থাকলেও করোটি দিয়ে আবৃত নয়
+T: textbook::p44
+Q: তরুণাস্থিময় ও অস্থিময় মাছের ফুলকা রন্ধ্র কেমন?
+A: তরুণাস্থিময় — ৫–৭ জোড়া উন্মুক্ত; অস্থিময় — ১ জোড়া, অপারকুলামে ঢাকা
+T: textbook::p44
+Q: তরুণাস্থিময় ও অস্থিময় মাছের রেচন বর্জ্য কী?
+A: তরুণাস্থিময় — ইউরিয়া; অস্থিময় — অ্যামোনিয়া
+T: textbook::p44
+Q: তরুণাস্থিময় মাছের উদাহরণ হিসেবে রূপচাঁদার বৈজ্ঞানিক নাম কী?
+A: Pampus chinesis
+T: textbook::p44
+Q: Cyclostomata ও Gnathostomata-র ফুলকা রন্ধ্র কত জোড়া?
+A: Cyclostomata — ৫–১৫ জোড়া; Gnathostomata — কিছু সদস্যে ৫–৭ জোড়া
+T: textbook::p44
+Q: Cyclostomata ও Gnathostomata-র অন্তঃকর্ণে কয়টি অর্ধবৃত্তাকার নালি থাকে?
+A: Cyclostomata — একটি বা দুটি; Gnathostomata — তিনটি
+T: textbook::p44
+Q: কোন মেরুদণ্ডী শ্রেণিতে গলবিলীয় ফুলকা রন্ধ্র সারাজীবন থাকে?
+A: মাছ (উভচরে ভ্রূণ ও লার্ভা দশায়; সরীসৃপ, পাখি ও স্তন্যপায়ীতে ভ্রূণ দশায়)
+T: textbook::p45
+Q: মাছের হৃৎপিণ্ড কয় প্রকোষ্ঠবিশিষ্ট?
+A: ২ প্রকোষ্ঠবিশিষ্ট — একটি অ্যাট্রিয়াম ও একটি ভেন্ট্রিকল
+T: textbook::p45
+Q: সরীসৃপের হৃৎপিণ্ড কেমন?
+A: অসম্পূর্ণভাবে ৪ প্রকোষ্ঠবিশিষ্ট — দুটি অ্যাট্রিয়াম ও দুটি অসম্পূর্ণভাবে বিভক্ত ভেন্ট্রিকল
+T: textbook::p45
+Q: কোন মেরুদণ্ডী শ্রেণির পরিণত RBC নিউক্লিয়াসবিহীন?
+A: স্তন্যপায়ী (মাছ, উভচর, সরীসৃপ ও পাখির RBC নিউক্লিয়াসযুক্ত)
+T: textbook::p45
+Q: কোন কোন মেরুদণ্ডী শ্রেণির বৃক্ক মেসোনেফ্রোস এবং কোনগুলোর মেটানেফ্রোস?
+A: মাছ ও উভচর — মেসোনেফ্রোস; সরীসৃপ, পাখি ও স্তন্যপায়ী — মেটানেফ্রোস
+T: textbook::p45
+Q: মাছ ও স্তন্যপায়ীতে অক্ষিপল্লব কয়টি?
+A: মাছে অনুপস্থিত; স্তন্যপায়ীতে দুটি (উভচর, সরীসৃপ ও পাখিতে তিনটি)
+T: textbook::p45
+Q: কোন মেরুদণ্ডী শ্রেণিতে ক্লোয়েকা বা অবসারণী ছিদ্র অনুপস্থিত?
+A: মাছ ও স্তন্যপায়ী (উভচর, সরীসৃপ ও পাখিতে উপস্থিত)
+T: textbook::p45
+Q: মাছ ও উভচরে কত জোড়া করোটিক স্নায়ু থাকে? সরীসৃপ, পাখি ও স্তন্যপায়ীতে কত জোড়া?
+A: মাছ ও উভচর — ১০ জোড়া; সরীসৃপ, পাখি ও স্তন্যপায়ী — ১২ জোড়া
+T: textbook::p45
+Q: কোন মেরুদণ্ডী শ্রেণিতে বহিঃনিষেক ঘটে?
+A: মাছ ও উভচর (সরীসৃপ, পাখি ও স্তন্যপায়ীতে অন্তঃনিষেক)
+T: textbook::p45
+Q: কোন মেরুদণ্ডী শ্রেণিতে লার্ভা দশা থাকে?
+A: মাছ ও উভচর
+T: textbook::p45
+Q: গোখড়া সাপ ও সোনা ব্যাঙের বৈজ্ঞানিক নাম কী?
+A: গোখড়া — Naja naja; সোনা ব্যাঙ — Hoplobatrachus tigerinus
+T: textbook::p45
+# ব্যবহারিক — নমুনা পর্যবেক্ষণ
+Q: কেঁচোর কততম দেহখণ্ডকের উপরে চামড়ার মতো বেষ্টনী বা ক্লাইটেলাম থাকে?
+A: ১৪–১৬তম দেহখণ্ডকে
+T: textbook::p48
+Q: কেঁচোর স্ত্রী ও পুং জননরন্ধ্র কততম দেহখণ্ডকে থাকে?
+A: স্ত্রী জননরন্ধ্র — ১৪তম খণ্ডকে একটি; পুং জননরন্ধ্র — ১৮তম খণ্ডকে একজোড়া
+T: textbook::p48
+Q: আরশোলার (Periplaneta americana) বক্ষ ও উদরে কয়টি খণ্ড থাকে?
+A: বক্ষে তিনটি ও উদরে ১০টি খণ্ড
+T: textbook::p49
+Q: Octopus macropus-এর জননের উদ্দেশ্যে বিশেষ গড়নের বাহুটিকে কী বলে?
+A: হেক্টোকটিল (ডান পাশের ৩য় বাহু)
+T: textbook::p51
+Q: ইলিশ মাছের চোখদুটি কী দিয়ে ঢাকা থাকে?
+A: স্বচ্ছ অ্যাডিপোজ আবরণী দিয়ে
+T: textbook::p53
+Q: গিনিপিগের (Cavia porcellus) সামনের ও পেছনের পায়ে কয়টি করে আঙুল থাকে?
+A: সামনের পায়ে ৪টি ও পেছনের পায়ে ৩টি করে নখরযুক্ত আঙুল
+T: textbook::p55
+# সারসংক্ষেপ
+Q: Carolus Linnaeus-এর Systema Naturae গ্রন্থের কোন সংস্করণে (কত সালে) লিনিয়ান হায়ারার্কি বিবৃত হয়েছে?
+A: দশম সংস্করণে (১৭৫৮)
+T: textbook::p57
+Q: সর্বপ্রথম Taxonomy শব্দটি কে ব্যবহার করেন?
+A: সুইস উদ্ভিদবিজ্ঞানী Augustin Pyramus de Candolle
+T: textbook::p57
+Q: ট্যাক্সোনমি অনুসারে শ্রেণিবিন্যাসের প্রধান নীতিগুলো কী কী?
+A: শ্রেণিবদ্ধগত বৈশিষ্ট্য নির্ধারণ, শনাক্তকরণ, ক্যাটাগরিকরণ ও নামকরণ
+T: textbook::p57
+Q: প্রাণিজগতের মোট ৩৩টি পর্বের মধ্যে কয়টি গৌণ বা মাইনর পর্ব?
+A: ২৪টি
+T: textbook::p57
+Q: মেরুদণ্ডী প্রাণীদের ভ্রূণের এবং পূর্ণাঙ্গ সেফালোকর্ডেটদের পেশিখণ্ডক বা সোমাইটকে কী বলে?
+A: মায়োটোম
+T: textbook::p57
+Q: সাইক্লয়েড আঁইশ কোন কোন মাছে দেখা যায়?
+A: রুই, কাতলা, মৃগেল
+T: textbook::p57
+Q: টিনয়েড আঁইশ কোন কোন মাছে দেখা যায়?
+A: কৈ, ভেটকি
+T: textbook::p57
+Q: গ্যানয়েড আঁইশ কোন মাছে থাকে এবং এর উপরে কোন পুরু আস্তরণ থাকে?
+A: সিলাকান্থ ও লাংফিশ; গ্যানয়েন নামক এনামেল জাতীয় পুরু আস্তরণ
+T: textbook::p57
+Q: প্ল্যাকয়েড আঁইশের প্রত্যেকটিতে কী থাকে?
+A: একটি ত্রিকোণাকার বেসাল প্লেট ও প্লেট থেকে সৃষ্ট তিনটি সূক্ষ্ম কাঁটা
+T: textbook::p57
+Q: এক্টোথার্মিক বা শীতল রক্তবিশিষ্ট প্রাণীর উদাহরণ কী?
+A: মাছ, উভচর ও সরীসৃপ
+T: textbook::p57
+Q: হোমিওথার্মিক বা সমোষ্ণশোণিত প্রাণীর উদাহরণ কী?
+A: পাখি ও স্তন্যপায়ী
+T: textbook::p57
+Q: স্তন্যপায়ীর বক্ষ ও উদর গহ্বরের মাঝখানের পেশিবহুল পর্দার নাম কী?
+A: ডায়াফ্রাম (শ্বসনে ভূমিকা রাখে)
+T: textbook::p57
+# প্রশ্নব্যাংক — প্রাণিবৈচিত্র্য ও শ্রেণিবিন্যাস
+Q: শ্রেণিবিন্যাসবিদ্যার জনক কে?
+A: Carolus Linnaeus
+T: source::question_bank
+Q: ক্যারোলাস লিনিয়াসের অবদান সবচেয়ে বেশি কোন ক্ষেত্রে?
+A: শ্রেণিতত্ত্ব (শ্রেণিবিন্যাস)
+T: source::question_bank
+Q: প্রাণিবিদ্যার জনক কে?
+A: অ্যারিস্টটল
+T: source::question_bank
+Q: বাংলাদেশ কোন জীববৈচিত্র্য হট-স্পটের অন্তর্গত?
+A: ইন্দো-বার্মা
+T: source::question_bank
+Q: মরুভূমি, বনভূমি, তৃণভূমি ইত্যাদি কোন ধরনের বৈচিত্র্য?
+A: বাস্তুতান্ত্রিক বৈচিত্র্য
+T: source::question_bank
+Q: অক্ষের সাথে সামঞ্জস্য রেখে প্রাণিদেহের বিভিন্ন অংশের বিভাজন প্রকৃতিকে কী বলে?
+A: প্রতিসাম্যতা
+T: source::question_bank
+Q: পৃথিবীর আদিপ্রাণী কোন পর্বের অন্তর্ভুক্ত?
+A: প্রোটোজোয়া
+T: exam::MAT_12-13 past_question source::question_bank
+Q: Astropecten irregularis-এ কোন ধরনের প্রতিসাম্যতা দেখা যায়?
+A: পঞ্চঅরীয়
+T: source::question_bank
+Q: শ্রেণিবিন্যাসের সবচেয়ে বড় একক কোনটি (প্রশ্নব্যাংক অনুযায়ী)?
+A: Phylum (পর্ব)
+T: source::question_bank
+Q: বর্গের (Order) ঠিক অধীনে কোন ধাপ থাকে?
+A: গোত্র (Family)
+T: source::question_bank
+Q: কোন প্রাণিতে পরিপাকতন্ত্রে পাকস্থলী থাকে না?
+A: Petromyzon (Myxini ও Petromyzontida শ্রেণির প্রাণিতে পাকস্থলী নেই)
+T: source::question_bank
+Q: প্রাণিজগতের বিভিন্নতাকে প্রধানত কয়টি পর্যায়ে ভাগ করা হয়?
+A: ৩টি
+T: source::question_bank
+Q: কোনো প্রজাতি বাস্তুতন্ত্রে যে গুরুত্বপূর্ণ ভূমিকা রাখে তাকে কী বলে?
+A: Ecological niche
+T: source::question_bank
+Q: যে প্রজাতি বাস্তুতন্ত্রের বৈচিত্র্য ও অখণ্ডতা রক্ষায় ভূমিকা পালন করে তাকে কী বলে?
+A: কিস্টোন প্রজাতি (Keystone species)
+T: source::question_bank
+Q: প্রজাতির বৈচিত্র্য পরিমাপে সর্বাধিক ব্যবহৃত সূচক কোনটি?
+A: সিম্পসন ডাইভার্সিটি ইনডেক্স
+T: source::question_bank
+Q: গিনিপিগ কোন ধরনের পর্বের প্রাণী — প্রোটোস্টোম না ডিউটারোস্টোম?
+A: ডিউটারোস্টোম (Chordata)
+T: source::question_bank
+Q: Radiata ও Bilateria উভয়েরই বৈশিষ্ট্য কোনটি?
+A: কর্ষিকা
+T: source::question_bank
+Q: মিসেলেনিয়াস বা গৌণ পর্বের একটি উদাহরণ কী?
+A: Nemertea
+T: source::question_bank
+Q: অ্যারিস্টটলের শ্রেণিবিন্যাস অনুযায়ী লাল রক্তযুক্ত মেরুদণ্ডী প্রাণীদের কী বলা হয়?
+A: Enaima
+T: source::question_bank
+Q: ত্রিস্তরী প্রাণীদের কোন তন্ত্রটি মেসোডার্ম উদ্ভূত নয়?
+A: পৌষ্টিকতন্ত্র
+T: source::question_bank
+Q: Mangifera indica, Tenualosa ilisha, Panthera tigris ও Homo sapiens — কোনটি হলোজয়িক পদ্ধতিতে পুষ্টি সম্পন্ন করে না?
+A: Mangifera indica
+T: source::question_bank
+Q: Entamoeba histolytica কি বহুকোষী?
+A: না, এককোষী
+T: source::question_bank
+Q: কেঁচো কোন অঙ্গের মাধ্যমে শ্বাস-প্রশ্বাস নেয়?
+A: ত্বক
+T: exam::MAT_21-22 past_question source::question_bank
+Q: শামুক জ্বর (Snail fever) সৃষ্টি করে কোন পরজীবী?
+A: Schistosoma
+T: source::question_bank
+Q: কোন পর্বের প্রাণীতে অযৌন জননাঙ্গ গেমিউল সৃষ্টি হয়?
+A: Porifera
+T: source::question_bank
+Q: Hydra, Taenia, Ascaris ও Wuchereria-র মধ্যে কোনটিতে স্ব-নিষেক ঘটে?
+A: Taenia (ফিতাকৃমি; Platyhelminthes-এ স্বনিষেক হয়)
+T: source::question_bank
+Q: মালপিজিয়ান বডি কি অমেরুদণ্ডী প্রাণীর রেচন অঙ্গ?
+A: না (মালপিজিয়ান নালিকা, নেফ্রিডিয়াম ও ইউরেট কোষ অমেরুদণ্ডীর রেচন অঙ্গ)
+T: source::question_bank
+Q: Hydra, Taenia, Pila ও Spongilla-র মধ্যে গঠনগতভাবে সরলতম কোনটি?
+A: Spongilla
+T: source::question_bank
+Q: গুড়াকৃমি কোন পর্বের অন্তর্ভুক্ত?
+A: Nematoda
+T: source::question_bank
+Q: ম্যান্টল পর্দা কোন প্রক্রিয়ায় সহায়তা করে?
+A: শ্বসন
+T: source::question_bank
+Q: অস্টিয়ামসমৃদ্ধ উভলিঙ্গ প্রাণী কোনটি?
+A: স্পঞ্জ
+T: source::question_bank
+Q: Obelia geniculata ও Aurelia aurita কোন পর্বের প্রাণী?
+A: Cnidaria
+T: source::question_bank
+Q: পালক স্টার (Echinodermata) — এর কোন তন্ত্র নেই?
+A: রেচনতন্ত্র
+T: source::question_bank
+Q: কোন প্রাণী সাগর-পাখা (Sea-fan) নামে পরিচিত?
+A: Gorgonia
+T: source::question_bank
+Q: কোন নেমাটোড যৌন দ্বিরূপতা প্রদর্শন করে (ফিতা কৃমি, যকৃত কৃমি, স্যালমন কৃমির বিপরীতে)?
+A: ফাইলেরিয়া কৃমি
+T: source::question_bank
+Q: Octopus punctatus ও Neanthes virens কোন পর্বের?
+A: Octopus — Mollusca; Neanthes — Annelida
+T: source::question_bank
+Q: কোন পর্বের প্রাণীদের অন্তঃনিষেক হয় এবং প্রায় ক্ষেত্রেই রূপান্তর ঘটে?
+A: Arthropoda
+T: source::question_bank
+Q: Arthropoda-য় ডায়াফ্রাম থাকে কি?
+A: না, অনুপস্থিত
+T: source::question_bank
+Q: Echinodermata-র মৌখিক তলে কয়টি অ্যাম্বুল্যাক্রাল খাদ থাকে?
+A: পাঁচটি
+T: source::question_bank
+Q: নেফ্রিডিয়াকে কী অঙ্গ বলা হয়?
+A: খণ্ডীয় অঙ্গ
+T: source::question_bank
+Q: Platyhelminthes-এর রেচন অঙ্গের অপর নামগুলো কী?
+A: প্রোটোনেফ্রিডিয়া বা শিখা কোষ বা সোলেনোসাইট
+T: source::question_bank
+Q: পৃথিবীর সবচেয়ে বিষাক্ত জেলিফিশ কোনটি?
+A: Chironex (Chironex fleckeri — সামুদ্রিক বল্লা)
+T: source::question_bank
+Q: Hirudinaria manillensis কতটি খণ্ডে বিভক্ত?
+A: ৩৩টি
+T: source::question_bank textbook::p48
+Q: 'সিলভার ফিশ' কোন পর্বের প্রাণী?
+A: আর্থ্রোপোডা
+T: source::question_bank
+Q: কোন পর্বের প্রাণিগুলোকে 'আংটি কীট' বলা হয়?
+A: অ্যানিলিডা
+T: source::question_bank
+Q: অ্যানিলিডার রক্ত সংবহনতন্ত্রে কোনটি অনুপস্থিত?
+A: লোহিত রক্তকণিকা
+T: source::question_bank
+Q: আর্থ্রোপোডা পর্বের কোন শ্রেণিতে সবচেয়ে বেশি প্রাণী আছে?
+A: Hexapoda (Insecta)
+T: source::question_bank
+Q: 'টাইড ম্যানস বডি' কোন প্রাণীতে উপস্থিত?
+A: তারামাছ
+T: source::question_bank
+Q: অ্যানিলিডদের বিশেষ জনন খণ্ডককে কী বলে?
+A: ক্লাইটেলাম
+T: source::question_bank
+Q: বালু কৃমি কোন পর্বের অন্তর্ভুক্ত?
+A: অ্যানিলিডা
+T: source::question_bank
+Q: স্পঞ্জিন কোন প্রোটিন দিয়ে গঠিত?
+A: কোলাজেন
+T: source::question_bank
+Q: 'অসফ্রাডিয়াম' কোন পর্বের প্রাণীদের বৈশিষ্ট্য?
+A: মলাস্কা
+T: source::question_bank
+Q: পলিপ ও মেডুসার মধ্যে কোনটি নিশ্চল অযৌন দশা?
+A: পলিপ
+T: source::question_bank
+Q: কোন পর্বের প্রাণীদের পানি সংবহনের জন্য 'রিং ভেসেল' উপস্থিত?
+A: একাইনোডার্মাটা
+T: source::question_bank
+Q: কোন প্রাণীতে রেনাল পোর্টাল সিস্টেম উন্নত ধরনের?
+A: সরীসৃপ (পাখিতে ক্ষয়প্রাপ্ত, স্তন্যপায়ীতে অনুপস্থিত)
+T: exam::DAT_24-25 past_question source::question_bank
+Q: কবুতর কোন শ্রেণির প্রাণী?
+A: Aves
+T: exam::MAT_19-20 past_question source::question_bank
+Q: মারসুপিয়াল স্তন্যপায়ীর উদাহরণ কী?
+A: ক্যাঙ্গারু
+T: exam::DAT_19-20 past_question source::question_bank
+Q: হেটারোসার্কাল পুচ্ছ-পাখনা পাওয়া যায় কোন মাছে?
+A: হাঙর
+T: source::question_bank
+Q: Thaliacea, Ascidiacea, Larvacea ও Sarcopterygii-র মধ্যে কোন শ্রেণিতে আঁইশ দেখা যায়?
+A: Sarcopterygii
+T: source::question_bank
+Q: কোন প্রাণীর দাঁত ও বহিঃকর্ণ থাকে না?
+A: প্লাটিপাস (Prototheria)
+T: source::question_bank
+Q: এন্ডোস্টাইল কোন অঙ্গের সমসংস্থ অঙ্গ?
+A: থাইরয়েড গ্রন্থি
+T: source::question_bank
+Q: কোন প্রাণীর পরিপাকতন্ত্রে থলিকাকার 'ক্রপ' এবং পেশিময় 'গিজার্ড' থাকে?
+A: Columba (কবুতর; পাখি)
+T: source::question_bank textbook::p39
+Q: বোম্বে ডাক কোন শ্রেণির প্রাণী?
+A: Actinopterygii
+T: source::question_bank
+Q: কোন প্রাণী সামুদ্রিক বল্লা নামে পরিচিত?
+A: Chironex fleckeri
+T: source::question_bank
+Q: সম্পূর্ণ চার প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড কোন সরীসৃপে থাকে (বৈজ্ঞানিক নাম)?
+A: Crocodylus palustris (কুমির)
+T: source::question_bank
+Q: Scoliodon laticaudus-এর আঁইশ কোন ধরনের?
+A: প্ল্যাকয়েড
+T: source::question_bank
+Q: ব্যাঙ, পাখি, কুমির ও হাঙরের মধ্যে কোনটি ডিম্ব-জরায়ুজ প্রাণী?
+A: হাঙর
+T: source::question_bank
+Q: কোন প্রাণীর জীবনচক্রে ফুলকা শ্বসন বিদ্যমান — ব্যাঙ, সাপ, কচ্ছপ না ডলফিন?
+A: ব্যাঙ (লার্ভা দশায়)
+T: source::question_bank
+Q: হ্যাগফিশ, ল্যামপ্রে, হাঙর ও লাংফিশের মধ্যে কোনটিতে পৃষ্ঠ পাখনা অনুপস্থিত?
+A: হ্যাগফিশ
+T: source::question_bank
+Q: বাদুড়ের হৃৎপিণ্ডে প্রকোষ্ঠের সংখ্যা কয়টি?
+A: ৪টি
+T: source::question_bank
+Q: Actinopterygii ও Sarcopterygii শ্রেণিকে একত্রে কী বলে?
+A: Osteichthyes
+T: source::question_bank
+Q: স্যালামান্ডার কোন বর্গের প্রাণী?
+A: Caudata
+T: source::question_bank
+Q: ডিম পাড়ে এমন স্তন্যপায়ী প্রাণী কোনটি — ইঁদুর, বনরুই, হংসচঞ্চু না কাঠবিড়াল?
+A: হংসচঞ্চু (প্লাটিপাস)
+T: source::question_bank
+Q: বাংলাদেশে প্রাপ্ত স্থায়ী পাখি প্রজাতির সংখ্যা কত?
+A: ৬৫০
+T: source::question_bank textbook::p39
+Q: উভচর প্রাণীদের বৃক্ক কোন ধরনের?
+A: মেসোনেফ্রোস
+T: source::question_bank textbook::p45
+Q: 'লুমিনাস অঙ্গ' কোন শ্রেণির প্রাণীতে দেখা যায়?
+A: থ্যালিয়াসিয়া (Thaliacea)
+T: source::question_bank
+Q: পেলাজিক প্রাণী কাদের বলা হয়?
+A: যারা পানির উপরের স্তরে বসবাস করে
+T: source::question_bank
+Q: কোন মাছের পরিপাকতন্ত্র 'J' আকৃতির — মাগুর, গিটার, হ্যাগ না ফুসফুস মাছ?
+A: গিটার মাছ (তরুণাস্থিময় মাছ)
+T: source::question_bank
+Q: সেফালোকর্ডাটার দেহে মায়োটোম পেশি কয়টি?
+A: প্রায় ৬০ জোড়া
+T: source::question_bank
+Q: Buccal funnel কোন শ্রেণির বৈশিষ্ট্য?
+A: Petromyzontida (Cephalaspidomorphi — ল্যামপ্রে)
+T: source::question_bank
+Q: কন্ড্রিকথিস-এর হৃৎপিণ্ডে কোন দুটি অংশ থাকে?
+A: সাইনাস ভেনোসাস ও কোনাস আর্টেরিওসাস (২ প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড)
+T: source::question_bank
+Q: কোন শ্রেণির কলোনির সদস্যরা স্টোলন দ্বারা পরস্পর যুক্ত থাকে?
+A: অ্যাসিডিয়াসিয়া (Ascidiacea)
+T: source::question_bank
+Q: 'মিক্সিনি' শ্রেণির প্রাণীদের মুখে কর্ষিকার সংখ্যা কয়টি?
+A: ৮টি (৪ জোড়া)
+T: source::question_bank
