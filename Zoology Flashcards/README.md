@@ -26,6 +26,6 @@ Chapter 8 repeats 118 questions in a later subdeck; the web app shows each once 
 `.apkg` files are the source of truth here. After replacing a deck, regenerate its text with:
 
 ```
-python3 source/extract_apkg.py MAT_Zoology_Ch4_Rokto_O_Songchalon.apkg source/z_ch04.txt
+python3 ../tools/extract_apkg.py MAT_Zoology_Ch4_Rokto_O_Songchalon.apkg source/z_ch04.txt
 ```
 `<br>` becomes ` || `, other HTML is stripped, and the topic is the last subdeck name.

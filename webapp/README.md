@@ -1,6 +1,6 @@
 # MAT Brain Gym (study web app)
 
-A web app for studying every flashcard in this repo (Physics, Chemistry, Botany, Zoology: 23,814 cards). It runs on spaced repetition and active recall, with a daily goal that counts down to the exam.
+A web app for studying every flashcard in this repo (Physics, Chemistry, Botany, Zoology: 24,989 cards). It runs on spaced repetition and active recall, with a daily goal that counts down to the exam.
 
 ## What it does
 - **Daily mission**: (cards you haven't seen ÷ days left before revision starts) + reviews due today. Revision-only days default to 10 before an exam on 5 Dec 2026; you can change both in Settings. The goal is fixed for the day, then re-balanced the next day from what you actually did. A skipped day never counts as progress.

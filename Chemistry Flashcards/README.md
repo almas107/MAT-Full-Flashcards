@@ -21,15 +21,20 @@ Where the QB answer key and the textbook disagree, or a key looks wrong, the car
 | পত্র | অধ্যায় | শিরোনাম | ফাইল | কার্ড | PYQ |
 |---|---|---|---|---|---|
 | রসায়ন ১ম পত্র | 1 | ল্যাবরেটরির নিরাপদ ব্যবহার | `MAT_Chem1_Ch1_Laboratory_Safety.apkg` | 495 | 61 |
+| রসায়ন ১ম পত্র | 2 | গুণগত রসায়ন (part 2: 2.12–2.20) | `MAT_Chem1_Ch2_Qualitative_Chemistry_Part2.apkg` | 265 | 20 |
+| রসায়ন ১ম পত্র | 3 | মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন | `MAT_Chem1_Ch3_Periodic_Properties_Bonding.apkg` | 407 | 0 |
 | রসায়ন ১ম পত্র | 4 | রাসায়নিক পরিবর্তন | `MAT_Chem1_Ch4_Chemical_Change.apkg` | 958 | 142 |
 | রসায়ন ১ম পত্র | 5 | কর্মমুখী রসায়ন | `MAT_Chem1_Ch5_Vocational_Chemistry.apkg` | 517 | 78 |
+| রসায়ন ২য় পত্র | 1 | পরিবেশ রসায়ন | `MAT_Chem2_Ch1_Environmental_Chemistry.apkg` | 503 | 0 |
 | রসায়ন ২য় পত্র | 2 | জৈব রসায়ন | `MAT_Chem2_Ch2_Organic_Chemistry.apkg` | 2044 | 217 |
 | রসায়ন ২য় পত্র | 3 | পরিমাণগত রসায়ন | `MAT_Chem2_Ch3_Quantitative_Chemistry.apkg` | 777 | 143 |
 | রসায়ন ২য় পত্র | 4 | তড়িৎ রসায়ন | `MAT_Chem2_Ch4_Electrochemistry.apkg` | 749 | 39 |
 | রসায়ন ২য় পত্র | 5 | অর্থনৈতিক রসায়ন | `MAT_Chem2_Ch5_Economic_Chemistry.apkg` | 620 | 60 |
-| **মোট** | | | | **6160** | **740** |
+| **মোট** | | | | **7335** | **760** |
 
-Not included: ১ম পত্র Ch2 (গুণগত রসায়ন) and Ch3 (পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন), because there are no textbook PDFs for them in the repo, and ২য় পত্র Ch1 (পরিবেশ রসায়ন), which was skipped on request.
+The three decks for ১ম পত্র Ch2 (part 2 only), Ch3 and ২য় পত্র Ch1 were made outside this repo and uploaded as `.apkg`.
+Their card text was extracted into `source/` with `../tools/extract_apkg.py`, so they don't follow every style rule above
+(some answers are longer and include a short reason). Ch2 part 1 (2.1–2.11) is still missing.
 
 ## Reviewing fast
 - Open the **PYQ** tag first (Browse → tag `PYQ` → create a filtered deck), then go through the topic subdecks.

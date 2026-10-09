@@ -6,16 +6,17 @@ Output format (same as the Physics/Chemistry/Botany sources):
     A: <back>                  (" || " marks a line break)
     Y: MAT 22-23, DAT 19-20    (only when the note carries past-exam tags)
 
-Usage: python3 extract_apkg.py <deck.apkg> <out.txt>
+Usage: python3 tools/extract_apkg.py <deck.apkg> <out.txt>
 """
 import html, json, os, re, sqlite3, sys, tempfile, zipfile
 
+BN_DIGITS = str.maketrans('০১২৩৪৫৬৭৮৯', '0123456789')
 EXAM_TAG = re.compile(r'(?:exam::)?(MAT|DAT|AFMC)[_-](\d{1,2}-\d{1,2})$', re.I)
 
 
 def clean(s):
     s = re.sub(r'<br\s*/?>', ' || ', s, flags=re.I)
-    s = re.sub(r'<[^>]+>', '', s)
+    s = re.sub(r'</?[A-Za-z][^<>]*>', '', s)   # real tags only; keep text like '< Ksp' or '<1'
     s = html.unescape(s).replace('\xa0', ' ')
     s = re.sub(r'[ \t\r\n]+', ' ', s)
     s = re.sub(r'(\s*\|\|\s*)+', ' || ', s)
@@ -33,6 +34,13 @@ def years(tags):
     return ', '.join(out)
 
 
+def deck_order(name):
+    """Natural sort, so subdeck '3.2' comes before '3.10'; unnumbered subdecks go last."""
+    last = name.split('::')[-1].translate(BN_DIGITS)
+    nums = [int(x) for x in re.match(r'[\d.\-]*', last).group(0).replace('-', '.').split('.') if x]
+    return (name.rsplit('::', 1)[0], 0 if nums else 1, nums, last)
+
+
 def extract(apkg, out):
     with tempfile.TemporaryDirectory() as tmp:
         with zipfile.ZipFile(apkg) as z:
@@ -45,10 +53,10 @@ def extract(apkg, out):
         db.close()
     chapter = None
     lines, last_topic, n = [], None, 0
-    for nid, flds, tags, did in sorted(rows, key=lambda r: (decks[str(r[3])]['name'], r[0])):
+    for nid, flds, tags, did in sorted(rows, key=lambda r: (deck_order(decks[str(r[3])]['name']), r[0])):
         parts = decks[str(did)]['name'].split('::')
         chapter = chapter or next((p for p in parts if p.startswith('অধ্যায়')), None)
-        topic = re.sub(r'^[০-৯\d]+[.)]?\s*', '', parts[-1]).strip()
+        topic = re.sub(r'^[০-৯\d]+[.)]?\s+', '', parts[-1]).strip()   # drop '০১ ' / '১. ', keep '২.১২ '
         q, a = (clean(f) for f in flds.split('\x1f')[:2])
         if not q or not a:
             continue
