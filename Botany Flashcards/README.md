@@ -1,11 +1,12 @@
 # Botany Flashcards (জীববিজ্ঞান ১ম পত্র — উদ্ভিদবিজ্ঞান)
 
-Anki packages for Botany chapters 2–12, one `.apkg` per chapter. They use the same
-note type (`MAT Botany Basic`) and deck layout as the Chapter 1 deck
-(`জীববিজ্ঞান ১ম পত্র::অধ্যায় N - …::<subdeck>`), so importing them sits alongside Ch1.
+Anki packages for Botany chapters 1–12, one `.apkg` per chapter. They all use the same
+note type (`MAT Botany Basic`) and deck layout (`জীববিজ্ঞান ১ম পত্র::অধ্যায় N - …::<subdeck>`).
+The Chapter 1 deck was made separately; its card text was extracted into `source/ch01.txt`.
 
 | অধ্যায় | Deck | Cards |
 |---|---|---|
+| ১ | কোষ ও এর গঠন | 647 |
 | ২ | কোষ বিভাজন | 283 |
 | ৩ | কোষ রসায়ন | 605 |
 | ৪ | অণুজীব | 826 |
@@ -17,7 +18,7 @@ note type (`MAT Botany Basic`) and deck layout as the Chapter 1 deck
 | ১০ | উদ্ভিদ প্রজনন | 314 |
 | ১১ | জীবপ্রযুক্তি | 361 |
 | ১২ | জীবের পরিবেশ, বিস্তার ও সংরক্ষণ | 587 |
-| | **Total** | **5196** |
+| | **Total** | **5843** |
 
 ## What is in the cards
 

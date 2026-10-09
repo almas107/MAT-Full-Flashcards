@@ -2,7 +2,8 @@
 
 Reads  ../Physics Flashcards/source/p{1,2}_chNN.txt,
        ../Chemistry Flashcards/source/c{1,2}_chNN.txt,
-       ../Botany Flashcards/source/chNN.txt
+       ../Botany Flashcards/source/chNN.txt,
+       ../Zoology Flashcards/source/z_chNN.txt
 (`# topic`, `Q:`, `A:` with " || " as a line break, optional `Y:` exam years).
 
 Card ids hash the question text, so editing an answer keeps your progress on that card.
@@ -32,15 +33,21 @@ CHAPTERS = {
         1: 'পরিবেশ রসায়ন', 2: 'জৈব রসায়ন', 3: 'পরিমাণগত রসায়ন', 4: 'তড়িৎ রসায়ন',
         5: 'অর্থনৈতিক রসায়ন'}),
     'b1': ('উদ্ভিদবিজ্ঞান', 'Botany', {
-        2: 'কোষ বিভাজন', 3: 'কোষ রসায়ন', 4: 'অণুজীব', 5: 'শৈবাল ও ছত্রাক',
+        1: 'কোষ ও এর গঠন', 2: 'কোষ বিভাজন', 3: 'কোষ রসায়ন', 4: 'অণুজীব', 5: 'শৈবাল ও ছত্রাক',
         6: 'ব্রায়োফাইটা ও টেরিডোফাইটা', 7: 'নগ্নবীজী ও আবৃতবীজী উদ্ভিদ', 8: 'টিস্যু ও টিস্যুতন্ত্র',
         9: 'উদ্ভিদ শারীরতত্ত্ব', 10: 'উদ্ভিদ প্রজনন', 11: 'জীবপ্রযুক্তি',
         12: 'জীবের পরিবেশ, বিস্তার ও সংরক্ষণ'}),
+    'z': ('প্রাণিবিজ্ঞান', 'Zoology', {
+        1: 'প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস', 2: 'প্রাণীর পরিচিতি', 3: 'পরিপাক ও শোষণ',
+        4: 'রক্ত ও সঞ্চালন', 5: 'শ্বসন ও শ্বাসক্রিয়া', 6: 'বর্জ্য ও নিষ্কাশন', 7: 'চলন ও অঙ্গচালনা',
+        8: 'সমন্বয় ও নিয়ন্ত্রণ', 9: 'মানব জীবনের ধারাবাহিকতা', 10: 'মানবদেহের প্রতিরক্ষা (ইমিউনিটি)',
+        11: 'জিনতত্ত্ব ও বিবর্তন', 12: 'প্রাণীর আচরণ'}),
 }
 SOURCES = [
     ('Physics Flashcards/source/p[12]_ch*.txt', r'(p[12])_ch(\d+)'),
     ('Chemistry Flashcards/source/c[12]_ch*.txt', r'(c[12])_ch(\d+)'),
     ('Botany Flashcards/source/ch*.txt', r'()ch(\d+)'),
+    ('Zoology Flashcards/source/z_ch*.txt', r'(z)_ch(\d+)'),
 ]
 BN_DIGITS = str.maketrans('0123456789', '০১২৩৪৫৬৭৮৯')
 
@@ -68,7 +75,7 @@ def parse(path):
 
 
 def main():
-    subjects, chapters, topics, cards, ids = [], [], [], [], set()
+    subjects, chapters, topics, cards, ids = [], [], [], [], {}
     for pattern, rx in SOURCES:
         for path in sorted(glob.glob(os.path.join(ROOT, pattern)),
                            key=lambda p: (re.search(rx, p).group(1), int(re.search(rx, p).group(2)))):
@@ -85,12 +92,16 @@ def main():
                 if not topics or topics[-1][0] != key:
                     topics.append((key, topic))
                 cid = hashlib.sha1(f'{paper}|{num}|{q}'.encode()).hexdigest()[:10]
-                if cid in ids:
+                if cid in ids:   # repeated question: keep the first card, but keep every exam year
+                    if y:
+                        kept = ids[cid]
+                        old = [x for x in kept.get('y', '').split(', ') if x]
+                        kept['y'] = ', '.join(old + [x for x in y.split(', ') if x not in old])
                     continue
-                ids.add(cid)
                 card = {'i': cid, 'c': ci, 't': len(topics) - 1, 'q': q, 'a': a}
                 if y:
                     card['y'] = y
+                ids[cid] = card
                 cards.append(card)
     out = {'subjects': subjects, 'chapters': chapters, 'topics': [t for _, t in topics], 'cards': cards}
     with open(os.path.join(HERE, 'cards.json'), 'w', encoding='utf-8') as f:

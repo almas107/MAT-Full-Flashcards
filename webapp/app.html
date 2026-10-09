@@ -8,7 +8,7 @@
   --paper:#f6f8ff; --grid:#d9e2ff; --ink:#1b1e3a; --ink-soft:#5a5f86; --sheet:#ffffff;
   --pink:#ff4f9a; --lemon:#ffd23f; --mint:#18c29c; --orange:#ff8a3d; --violet:#7a5cff; --sky:#3aa7ff;
   --good:#12b886; --bad:#ff4d5e; --warn:#ffb020;
-  --phy:#7a5cff; --chem:#ff8a3d; --bot:#18c29c;
+  --phy:#7a5cff; --chem:#ff8a3d; --bot:#18c29c; --zoo:#e0457b;
   --shadow:#1b1e3a;
   --f-body:"Baloo Da 2","Noto Sans Bengali","Hind Siliguri",system-ui,sans-serif;
   --f-hand:"Gochi Hand","Baloo Da 2","Comic Sans MS",cursive;
@@ -221,7 +221,7 @@ textarea.backup{width:100%;min-height:90px;font-family:monospace;font-size:12px;
 <canvas id="confetti"></canvas>
 
 <div class="wrap" id="app">
-  <div class="loading"><div><div class="bigword boil">loading brain food…</div><p class="muted">18,000+ flashcards incoming</p></div></div>
+  <div class="loading"><div><div class="bigword boil">loading brain food…</div><p class="muted">24,000 flashcards incoming</p></div></div>
 </div>
 
 <nav class="tabs" id="tabs" hidden>
@@ -243,8 +243,8 @@ const LS_KEY = 'matgym:v1';
 const DAY = 86400000;
 const INTERVALS = [1, 1, 3, 7, 14, 30];   // days, by box 0..5
 const MASTER_BOX = 3;
-const SUBJ_COLORS = { Physics: 'var(--phy)', Chemistry: 'var(--chem)', Botany: 'var(--bot)' };
-const SUBJ_EMOJI = { Physics: '⚛️', Chemistry: '🧪', Botany: '🌿' };
+const SUBJ_COLORS = { Physics: 'var(--phy)', Chemistry: 'var(--chem)', Botany: 'var(--bot)', Zoology: 'var(--zoo)' };
+const SUBJ_EMOJI = { Physics: '⚛️', Chemistry: '🧪', Botany: '🌿', Zoology: '🐸' };
 const MONSTERS = ['👾','🐙','🦖','🐉','👹','🦑','🐲','🦂','🧟','👻','🤖','🦈','🐊','🦇','🕷️'];
 // state array slots
 const B = 0, D = 1, N = 2, W = 3, R = 4, T = 5, K = 6, F = 7;
@@ -846,7 +846,7 @@ function renderPlay() {
   let body;
   if (S.mcq) {
     const answered = S.answered;
-    body = `<div class="card static" id="card"><div class="face wig">${cardMeta(card)}<div class="q">${esc(card.q)}</div>
+    body = `<div class="card static" id="card"><div class="face wig">${cardMeta(card)}<div class="q">${fmtA(card.q)}</div>
       <div class="opts">${S.mcq.opts.map((o, k) => {
         let cls = '';
         if (answered) cls = k === S.mcq.right ? 'right' : k === S.pick ? 'wrong' : 'dim';
@@ -856,10 +856,10 @@ function renderPlay() {
     </div></div>`;
   } else {
     body = `<div class="stage" id="stage"><div class="card ${S.flipped ? 'flipped' : ''}" id="card" tabindex="0" aria-label="Flashcard. Tap to flip">
-      <div class="face front wig">${cardMeta(card)}<div class="q">${esc(card.q)}</div>
+      <div class="face front wig">${cardMeta(card)}<div class="q">${fmtA(card.q)}</div>
         ${S.hint ? `<div class="hint">${esc(hintFor(card.a))}</div>` : ''}
         <div class="flipcue">🤔 Say the answer in your head…<br>then tap to flip</div></div>
-      <div class="face back wig">${cardMeta(card)}<div class="qsmall">${esc(card.q)}</div><div class="a">${fmtA(card.a)}</div>${S.flipped ? trickBlock(card) : ''}</div>
+      <div class="face back wig">${cardMeta(card)}<div class="qsmall">${fmtA(card.q)}</div><div class="a">${fmtA(card.a)}</div>${S.flipped ? trickBlock(card) : ''}</div>
     </div></div>
     ${S.flipped
       ? `<div class="grade"><button class="btn violet" id="g0">❌<span>Missed</span><small>swipe ← · 1</small></button><button class="btn mint" id="g1">✅<span>Got it</span><small>swipe → · 2</small></button><button class="btn lemon" id="g2">⚡<span>Easy</span><small>3</small></button></div>`
@@ -1069,7 +1069,7 @@ function renderErrors() {
       <button class="btn pink" id="edrill" ${list.length ? '' : 'disabled'}>🎯 Drill these (${Math.min(list.length, META.roundSize)} worst)</button>
     </div>
     <div class="stack" style="gap:10px">${shown.length ? shown.map(c => { const s = ST[c.i], fixed = !weakOf(c);
-      return `<div class="err"><div style="min-width:0"><div class="topic">${esc(DATA.chapters[c.c].t)}</div><div style="font-weight:700">${esc(c.q)}</div><div class="ea">${fmtA(c.a)}</div>${NOTES[c.i] ? `<div class="muted" style="font-size:14px">✏️ ${esc(NOTES[c.i])}</div>` : ''}</div>
+      return `<div class="err"><div style="min-width:0"><div class="topic">${esc(DATA.chapters[c.c].t)}</div><div style="font-weight:700">${fmtA(c.q)}</div><div class="ea">${fmtA(c.a)}</div>${NOTES[c.i] ? `<div class="muted" style="font-size:14px">✏️ ${esc(NOTES[c.i])}</div>` : ''}</div>
         <div class="x ${fixed ? 'fixed' : ''}">${fixed ? '✓' : '✗' + s[W]}<div class="muted" style="font-size:12px;font-family:var(--f-body)">${s[R]}✓ ${s[W]}✗</div></div></div>`; }).join('')
       : `<div class="sheet" style="text-align:center"><div style="max-width:100px;margin:0 auto">${mascotSVG('party')}</div><p style="font-weight:700">No mistakes here. Go make some (it's how you learn)!</p></div>`}
       ${list.length > shown.length ? `<p class="muted" style="text-align:center">…and ${list.length - shown.length} more. Search to narrow it down.</p>` : ''}
