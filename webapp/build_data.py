@@ -6,6 +6,10 @@ Reads  ../Physics Flashcards/source/p{1,2}_chNN.txt,
        ../Zoology Flashcards/source/z_chNN.txt
 (`# topic`, `Q:`, `A:` with " || " as a line break, optional `Y:` exam years).
 
+Then reads ../Most Probable Questions/source/mp_*.txt (the ranked probable-question set):
+cards already in a chapter only get a probability score `r`; past-paper MCQs and new cards that are
+not in any chapter yet are added to their chapter, with the exam options in `o` and the right index in `k`.
+
 Card ids hash the question text, so editing an answer keeps your progress on that card.
 Also wraps app.html (the page body, as published to claude.ai) into a standalone index.html.
 Usage: python3 build_data.py
@@ -74,8 +78,78 @@ def parse(path):
     return cards
 
 
+def card_id(key, q):
+    paper, num = key.split('_')
+    return hashlib.sha1(f'{paper}|{int(num)}|{q}'.encode()).hexdigest()[:10]
+
+
+def merge_years(card, y):
+    if y:
+        old = [x for x in card.get('y', '').split(', ') if x]
+        card['y'] = ', '.join(old + [x for x in y.split(', ') if x not in old])
+
+
+def add_probable(chapters, topics, cards, ids, chap_index):
+    """Fold the ranked probable-question set into the chapters (see module docstring)."""
+    topic_ix = {}
+    for path in sorted(glob.glob(os.path.join(ROOT, 'Most Probable Questions/source/mp_*.txt'))):
+        head, cur = None, None
+        entries = []
+        for ln, line in enumerate(open(path, encoding='utf-8'), 1):
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith('# '):
+                m = re.match(r'# \[(\w+)\] (T\d) \| (.*)', line)
+                if not m:
+                    sys.exit(f'{path}:{ln}: bad header')
+                head = m.groups()
+            elif line.startswith('Q: '):
+                cur = {'ch': head[0], 'tier': head[1], 'topic': head[2], 'q': line[3:], 'a': '', 'y': '', 'r': 0, 'l': None}
+                entries.append(cur)
+            elif line[:3] in ('A: ', 'Y: ', 'R: ', 'L: '):
+                cur[line[0].lower()] = line[3:]
+            else:
+                sys.exit(f'{path}:{ln}: unrecognised line: {line[:60]}')
+        for e in entries:
+            r = int(e['r'])
+            if e['l']:                                   # covered by an existing card
+                lk, lq = e['l'].split(' | ', 1)
+                c = ids.get(card_id(lk, lq))
+                if c:
+                    c['r'] = max(c.get('r', 0), r)
+                    merge_years(c, e['y'])
+                    continue
+            cid = card_id(e['ch'], e['q'])
+            if cid in ids:
+                ids[cid]['r'] = max(ids[cid].get('r', 0), r)
+                merge_years(ids[cid], e['y'])
+                continue
+            ci = chap_index[e['ch']]
+            tname = f"{e['tier']} · {e['topic']}"
+            if (ci, tname) not in topic_ix:
+                topic_ix[(ci, tname)] = len(topics)
+                topics.append(((ci, tname), tname))
+            card = {'i': cid, 'c': ci, 't': topic_ix[(ci, tname)], 'q': e['q'], 'a': e['a'], 'r': r}
+            parts = e['q'].split(' || ')
+            if len(parts) == 5 and all(re.match(r'^[কখগঘ]\) ', p) for p in parts[1:]):
+                card['q'] = parts[0]
+                card['o'] = [p[3:] for p in parts[1:]]
+                m = re.match(r'^([কখগঘ])\) ', e['a'])
+                if m:
+                    card['k'] = 'কখগঘ'.index(m.group(1))
+                else:                                    # answer not among the printed options
+                    card['q'] = e['q']
+                    del card['o']
+            if e['y']:
+                card['y'] = e['y']
+            ids[cid] = card
+            cards.append(card)
+
+
 def main():
     subjects, chapters, topics, cards, ids = [], [], [], [], {}
+    chap_index = {}
     for pattern, rx in SOURCES:
         for path in sorted(glob.glob(os.path.join(ROOT, pattern)),
                            key=lambda p: (re.search(rx, p).group(1), int(re.search(rx, p).group(2)))):
@@ -85,6 +159,7 @@ def main():
             if subject not in subjects:
                 subjects.append(subject)
             ci = len(chapters)
+            chap_index[f'{paper}_{num:02d}'] = ci
             chapters.append({'s': subjects.index(subject), 'p': paper_name, 'n': num,
                              't': f'অধ্যায় {str(num).translate(BN_DIGITS)} · {names[num]}'})
             for topic, q, a, y in parse(path):
@@ -103,11 +178,12 @@ def main():
                     card['y'] = y
                 ids[cid] = card
                 cards.append(card)
+    add_probable(chapters, topics, cards, ids, chap_index)
     out = {'subjects': subjects, 'chapters': chapters, 'topics': [t for _, t in topics], 'cards': cards}
     with open(os.path.join(HERE, 'cards.json'), 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, separators=(',', ':'))
     print(f'{len(cards)} cards, {len(chapters)} chapters, {len(topics)} topics, '
-          f'{sum(1 for c in cards if "y" in c)} PYQ')
+          f'{sum(1 for c in cards if "y" in c)} PYQ, {sum(1 for c in cards if "r" in c)} ranked probable')
     with open(os.path.join(HERE, 'app.html'), encoding='utf-8') as f:
         body = f.read()
     with open(os.path.join(HERE, 'index.html'), 'w', encoding='utf-8') as f:

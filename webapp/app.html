@@ -139,6 +139,7 @@ body.nowiggle .wig::before,body.nowiggle .boil{animation:none;filter:none}
 :root[data-theme="dark"] .a{color:#b3a2ff}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .a{color:#b3a2ff}}
 .qsmall{font-size:15px;color:var(--ink-soft);font-weight:600}
+.qopts{margin-top:8px;font-size:.88em;font-weight:600;text-align:left;display:inline-block}
 .flipcue{margin-top:auto;text-align:center;font-family:var(--f-hand);font-size:22px;color:var(--ink-soft)}
 .hint{font-family:var(--f-hand);font-size:22px;color:var(--orange);letter-spacing:1px}
 .trick{border-radius:14px;padding:10px 12px;background:color-mix(in srgb,var(--lemon) 26%,var(--sheet));font-size:15px;font-weight:600}
@@ -271,7 +272,7 @@ let FRESH_DEVICE = false;   // no local save yet: take settings from the cloud c
 function defaultMeta() {
   return {
     exam: '2026-12-05', buffer: 10, roundSize: 20, mode: 'mix', sound: true, wiggle: true, theme: 'auto',
-    subjects: null, xp: 0, bestCombo: 0, log: {}, plan: {}, lastOpen: null, newOrder: 'smart'
+    subjects: null, xp: 0, bestCombo: 0, log: {}, plan: {}, lastOpen: null, newOrder: 'probable'
   };
 }
 function lsGet() { try { return JSON.parse(localStorage.getItem(LS_KEY) || 'null'); } catch (e) { return null; } }
@@ -541,9 +542,15 @@ function logToday() { const k = isoFromDay(today()); return META.log[k] || (META
 
 let NEW_ORDER = [];
 function buildNewOrder() {
-  const pyq = [], bySubj = DATA.subjects.map(() => []);
-  for (const card of CARDS) { if (META.newOrder === 'smart' && card.y) pyq.push(card); else bySubj[DATA.chapters[card.c].s].push(card); }
-  const out = [...pyq], ptr = bySubj.map(() => 0);
+  const pyq = [], bySubj = DATA.subjects.map(() => []), prob = [];
+  for (const card of CARDS) {
+    if (META.newOrder === 'probable' && card.r) prob.push(card);
+    else if ((META.newOrder === 'smart' || META.newOrder === 'probable') && card.y) pyq.push(card);
+    else bySubj[DATA.chapters[card.c].s].push(card);
+  }
+  // highest score first; ties keep subjects mixed
+  prob.sort((x, y) => y.r - x.r || DATA.chapters[x.c].s - DATA.chapters[y.c].s);
+  const out = [...prob, ...pyq], ptr = bySubj.map(() => 0);
   if (META.newOrder === 'chapter') { NEW_ORDER = CARDS.slice(); return; }
   // round-robin subjects in topic-sized chunks of 10, so a day mixes physics, chemistry and botany
   let left = bySubj.reduce((s, a) => s + a.length, 0);
@@ -675,6 +682,7 @@ function buildRound(kind, arg) {
 
 /* ---------------------------- MCQ ---------------------------- */
 function mcqFor(card) {
+  if (card.o) return { opts: card.o, right: card.k };
   const a = card.a.split(' || ')[0];
   if (a.length > 90 || /✗/.test(a) || /\n/.test(a)) return null;
   const pool = [...TOPIC_CARDS[card.t], ...shuffle(CH_CARDS[card.c].slice()).slice(0, 80)];
@@ -829,9 +837,12 @@ function prepCard() {
 function cardMeta(card) {
   const ch = DATA.chapters[card.c], subj = DATA.subjects[ch.s], s = ST[card.i];
   return `<div class="meta"><span class="tag" style="background:${SUBJ_COLORS[subj]}">${SUBJ_EMOJI[subj]} ${subj}</span>
-    ${card.y ? `<span class="tag pyq">PYQ</span>` : ''}${!s ? '<span class="tag new">NEW</span>' : `<span class="tag box">box ${s[B]}</span>`}
+    ${card.y ? `<span class="tag pyq">PYQ</span>` : ''}${card.r ? `<span class="tag pyq" title="Probability score from past-paper analysis">P ${card.r}</span>` : ''}${!s ? '<span class="tag new">NEW</span>' : `<span class="tag box">box ${s[B]}</span>`}
     ${SESSION && SESSION.missed.has(card.i) ? '<span class="tag" style="background:var(--bad)">retry</span>' : ''}</div>
     <div class="topic">${esc(ch.p)} · ${esc(ch.t)} · ${esc(DATA.topics[card.t])}</div>`;
+}
+function qHtml(card) {
+  return fmtA(card.q) + (card.o ? `<div class="qopts">${card.o.map((o, k) => `${'কখগঘ'[k]}) ${esc(o)}`).join('<br>')}</div>` : '');
 }
 function trickBlock(card) {
   const tr = tricksFor(card);
@@ -856,10 +867,10 @@ function renderPlay() {
     </div></div>`;
   } else {
     body = `<div class="stage" id="stage"><div class="card ${S.flipped ? 'flipped' : ''}" id="card" tabindex="0" aria-label="Flashcard. Tap to flip">
-      <div class="face front wig">${cardMeta(card)}<div class="q">${fmtA(card.q)}</div>
+      <div class="face front wig">${cardMeta(card)}<div class="q">${qHtml(card)}</div>
         ${S.hint ? `<div class="hint">${esc(hintFor(card.a))}</div>` : ''}
         <div class="flipcue">🤔 Say the answer in your head…<br>then tap to flip</div></div>
-      <div class="face back wig">${cardMeta(card)}<div class="qsmall">${fmtA(card.q)}</div><div class="a">${fmtA(card.a)}</div>${S.flipped ? trickBlock(card) : ''}</div>
+      <div class="face back wig">${cardMeta(card)}<div class="qsmall">${qHtml(card)}</div><div class="a">${fmtA(card.a)}</div>${S.flipped ? trickBlock(card) : ''}</div>
     </div></div>
     ${S.flipped
       ? `<div class="grade"><button class="btn violet" id="g0">❌<span>Missed</span><small>swipe ← · 1</small></button><button class="btn mint" id="g1">✅<span>Got it</span><small>swipe → · 2</small></button><button class="btn lemon" id="g2">⚡<span>Easy</span><small>3</small></button></div>`
@@ -1069,7 +1080,7 @@ function renderErrors() {
       <button class="btn pink" id="edrill" ${list.length ? '' : 'disabled'}>🎯 Drill these (${Math.min(list.length, META.roundSize)} worst)</button>
     </div>
     <div class="stack" style="gap:10px">${shown.length ? shown.map(c => { const s = ST[c.i], fixed = !weakOf(c);
-      return `<div class="err"><div style="min-width:0"><div class="topic">${esc(DATA.chapters[c.c].t)}</div><div style="font-weight:700">${fmtA(c.q)}</div><div class="ea">${fmtA(c.a)}</div>${NOTES[c.i] ? `<div class="muted" style="font-size:14px">✏️ ${esc(NOTES[c.i])}</div>` : ''}</div>
+      return `<div class="err"><div style="min-width:0"><div class="topic">${esc(DATA.chapters[c.c].t)}</div><div style="font-weight:700">${qHtml(c)}</div><div class="ea">${fmtA(c.a)}</div>${NOTES[c.i] ? `<div class="muted" style="font-size:14px">✏️ ${esc(NOTES[c.i])}</div>` : ''}</div>
         <div class="x ${fixed ? 'fixed' : ''}">${fixed ? '✓' : '✗' + s[W]}<div class="muted" style="font-size:12px;font-family:var(--f-body)">${s[R]}✓ ${s[W]}✗</div></div></div>`; }).join('')
       : `<div class="sheet" style="text-align:center"><div style="max-width:100px;margin:0 auto">${mascotSVG('party')}</div><p style="font-weight:700">No mistakes here. Go make some (it's how you learn)!</p></div>`}
       ${list.length > shown.length ? `<p class="muted" style="text-align:center">…and ${list.length - shown.length} more. Search to narrow it down.</p>` : ''}
@@ -1090,7 +1101,7 @@ function renderSettings() {
       <label class="set">🔁 Revision-only days before exam <input type="number" id="sBuf" min="0" max="30" value="${META.buffer}" style="width:80px"></label>
       <label class="set">🃏 Cards per round <select id="sRound">${[10, 15, 20, 30, 40].map(n => `<option ${n === META.roundSize ? 'selected' : ''}>${n}</option>`).join('')}</select></label>
       <label class="set">🎮 Card style <select id="sMode"><option value="mix" ${META.mode === 'mix' ? 'selected' : ''}>Mix (flip + MCQ)</option><option value="flip" ${META.mode === 'flip' ? 'selected' : ''}>Flip only (best for recall)</option><option value="mcq" ${META.mode === 'mcq' ? 'selected' : ''}>MCQ when possible</option></select></label>
-      <label class="set">🆕 New card order <select id="sOrder"><option value="smart" ${META.newOrder === 'smart' ? 'selected' : ''}>PYQ first, then subjects mixed</option><option value="mixed" ${META.newOrder === 'mixed' ? 'selected' : ''}>Subjects mixed</option><option value="chapter" ${META.newOrder === 'chapter' ? 'selected' : ''}>Chapter by chapter</option></select></label>
+      <label class="set">🆕 New card order <select id="sOrder"><option value="probable" ${META.newOrder === 'probable' ? 'selected' : ''}>Most probable first (past-paper ranking)</option><option value="smart" ${META.newOrder === 'smart' ? 'selected' : ''}>PYQ first, then subjects mixed</option><option value="mixed" ${META.newOrder === 'mixed' ? 'selected' : ''}>Subjects mixed</option><option value="chapter" ${META.newOrder === 'chapter' ? 'selected' : ''}>Chapter by chapter</option></select></label>
       <div class="set" style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-weight:700"><span>📚 Subjects</span><span class="seg" id="sSubj">${DATA.subjects.map((s, i) => `<button data-i="${i}" aria-pressed="${subjOn(i)}">${SUBJ_EMOJI[s]} ${s}</button>`).join('')}</span></div>
       <label class="set">🔊 Sounds <input type="checkbox" id="sSound" ${META.sound ? 'checked' : ''}></label>
       <label class="set">〰️ Wiggly lines <input type="checkbox" id="sWig" ${META.wiggle ? 'checked' : ''}></label>

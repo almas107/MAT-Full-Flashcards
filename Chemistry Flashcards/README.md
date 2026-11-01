@@ -34,7 +34,7 @@ Where the QB answer key and the textbook disagree, or a key looks wrong, the car
 
 The three decks for ১ম পত্র Ch2 (part 2 only), Ch3 and ২য় পত্র Ch1 were made outside this repo and uploaded as `.apkg`.
 Their card text was extracted into `source/` with `../tools/extract_apkg.py`, so they don't follow every style rule above
-(some answers are longer and include a short reason). Ch2 part 1 (2.1–2.11) is still missing.
+(some answers are longer and include a short reason). Ch2 part 1 (2.1–2.11) has no deck here; 223 cards for it are in `../Most Probable Questions/source/new_c1_ch02_part1.txt` (part of the probable-question decks and the web app).
 
 ## Reviewing fast
 - Open the **PYQ** tag first (Browse → tag `PYQ` → create a filtered deck), then go through the topic subdecks.
